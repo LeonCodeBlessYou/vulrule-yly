@@ -1,4 +1,6 @@
 ---
+title: gpio_keys_get_devtree_pdata
+
 ---
 
 

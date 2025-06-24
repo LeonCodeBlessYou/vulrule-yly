@@ -1,4 +1,6 @@
 ---
+title: sdtx_device_get
+
 ---
 
 

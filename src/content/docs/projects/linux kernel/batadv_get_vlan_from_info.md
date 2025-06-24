@@ -1,4 +1,6 @@
 ---
+title: batadv_get_vlan_from_info
+
 ---
 
 

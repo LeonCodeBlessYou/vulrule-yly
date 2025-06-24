@@ -1,4 +1,6 @@
 ---
+title: fwnode_typec_mux_get
+
 ---
 
 

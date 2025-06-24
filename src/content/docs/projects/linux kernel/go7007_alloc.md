@@ -1,4 +1,6 @@
 ---
+title: go7007_alloc
+
 ---
 
 

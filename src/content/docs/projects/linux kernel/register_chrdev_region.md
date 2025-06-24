@@ -1,4 +1,6 @@
 ---
+title: register_chrdev_region
+
 ---
 
 

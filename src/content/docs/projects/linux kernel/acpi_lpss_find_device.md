@@ -1,4 +1,6 @@
 ---
+title: acpi_lpss_find_device
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: ath10k_wmi_10_2_4_op_gen_bb_timing
+
 ---
 
 

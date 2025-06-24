@@ -1,4 +1,6 @@
 ---
+title: scsi_disk_get
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: amdtee_config_shm
+
 ---
 
 

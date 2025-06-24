@@ -1,4 +1,6 @@
 ---
+title: nfc_get_device
+
 ---
 
 

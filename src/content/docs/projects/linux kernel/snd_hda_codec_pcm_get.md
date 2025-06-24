@@ -1,4 +1,6 @@
 ---
+title: snd_hda_codec_pcm_get
+
 ---
 
 

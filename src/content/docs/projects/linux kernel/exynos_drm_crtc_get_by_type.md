@@ -1,4 +1,6 @@
 ---
+title: exynos_drm_crtc_get_by_type
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: eb_composite_fence_create
+
 ---
 
 

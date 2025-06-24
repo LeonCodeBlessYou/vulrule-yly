@@ -1,4 +1,6 @@
 ---
+title: alloc_var_entry
+
 ---
 
 

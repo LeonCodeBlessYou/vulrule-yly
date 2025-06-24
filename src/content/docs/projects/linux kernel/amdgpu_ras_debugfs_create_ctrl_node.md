@@ -1,4 +1,6 @@
 ---
+title: amdgpu_ras_debugfs_create_ctrl_node
+
 ---
 
 

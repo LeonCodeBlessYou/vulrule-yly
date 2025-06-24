@@ -1,4 +1,6 @@
 ---
+title: batadv_hardif_get_by_netdev
+
 ---
 
 

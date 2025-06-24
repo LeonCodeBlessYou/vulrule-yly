@@ -1,4 +1,6 @@
 ---
+title: tegra_clk_register_periph_fixed
+
 ---
 
 

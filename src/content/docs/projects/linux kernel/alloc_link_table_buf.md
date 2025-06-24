@@ -1,4 +1,6 @@
 ---
+title: alloc_link_table_buf
+
 ---
 
 

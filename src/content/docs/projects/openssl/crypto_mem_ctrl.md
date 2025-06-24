@@ -1,4 +1,6 @@
 ---
+title: crypto_mem_ctrl
+
 ---
 
 

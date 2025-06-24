@@ -1,4 +1,6 @@
 ---
+title: msm_dsi_manager_connector_init
+
 ---
 
 

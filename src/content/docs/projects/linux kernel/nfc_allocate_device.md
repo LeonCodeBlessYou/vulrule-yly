@@ -1,4 +1,6 @@
 ---
+title: nfc_allocate_device
+
 ---
 
 

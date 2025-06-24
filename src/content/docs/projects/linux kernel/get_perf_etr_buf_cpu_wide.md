@@ -1,4 +1,6 @@
 ---
+title: get_perf_etr_buf_cpu_wide
+
 ---
 
 

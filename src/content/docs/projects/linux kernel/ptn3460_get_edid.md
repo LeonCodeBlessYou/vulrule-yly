@@ -1,4 +1,6 @@
 ---
+title: ptn3460_get_edid
+
 ---
 
 

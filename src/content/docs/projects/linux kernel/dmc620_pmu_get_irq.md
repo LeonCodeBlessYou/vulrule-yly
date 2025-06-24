@@ -1,4 +1,6 @@
 ---
+title: dmc620_pmu_get_irq
+
 ---
 
 

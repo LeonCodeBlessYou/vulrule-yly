@@ -1,4 +1,6 @@
 ---
+title: intel_sdvo_get_analog_edid
+
 ---
 
 

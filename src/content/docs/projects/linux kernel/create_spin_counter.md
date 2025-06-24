@@ -1,4 +1,6 @@
 ---
+title: create_spin_counter
+
 ---
 
 

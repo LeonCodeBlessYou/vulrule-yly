@@ -1,4 +1,6 @@
 ---
+title: squashfs_get_parent
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: intel_pinctrl_get_soc_data
+
 ---
 
 

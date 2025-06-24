@@ -1,4 +1,6 @@
 ---
+title: skl_int3472_get_sensor_module_config
+
 ---
 
 

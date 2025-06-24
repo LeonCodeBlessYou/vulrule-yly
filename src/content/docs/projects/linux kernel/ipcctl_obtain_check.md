@@ -1,4 +1,6 @@
 ---
+title: ipcctl_obtain_check
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: dmz_get_bitmap
+
 ---
 
 

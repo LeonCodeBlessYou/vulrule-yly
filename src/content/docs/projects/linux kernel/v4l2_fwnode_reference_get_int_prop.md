@@ -1,4 +1,6 @@
 ---
+title: v4l2_fwnode_reference_get_int_prop
+
 ---
 
 

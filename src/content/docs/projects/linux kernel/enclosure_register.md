@@ -1,4 +1,6 @@
 ---
+title: enclosure_register
+
 ---
 
 

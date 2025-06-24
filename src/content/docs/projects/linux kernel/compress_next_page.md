@@ -1,4 +1,6 @@
 ---
+title: compress_next_page
+
 ---
 
 

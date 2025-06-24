@@ -1,4 +1,6 @@
 ---
+title: input_allocate_device
+
 ---
 
 

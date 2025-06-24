@@ -1,4 +1,6 @@
 ---
+title: iwl_uefi_get_reduced_power
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: d40_hw_detect_init
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: xfs_rui_init
+
 ---
 
 

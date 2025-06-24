@@ -1,4 +1,6 @@
 ---
+title: omapdss_find_dss_of_node
+
 ---
 
 

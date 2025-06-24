@@ -1,4 +1,6 @@
 ---
+title: pic32_sosc_clk_register
+
 ---
 
 

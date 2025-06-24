@@ -1,4 +1,6 @@
 ---
+title: scmi_get_handler
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: rand_write_file
+
 ---
 
 

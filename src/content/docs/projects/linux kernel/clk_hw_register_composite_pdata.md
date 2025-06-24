@@ -1,4 +1,6 @@
 ---
+title: clk_hw_register_composite_pdata
+
 ---
 
 

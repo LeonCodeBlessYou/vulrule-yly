@@ -1,4 +1,6 @@
 ---
+title: scsi_device_from_queue
+
 ---
 
 

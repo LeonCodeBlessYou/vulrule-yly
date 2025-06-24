@@ -1,4 +1,6 @@
 ---
+title: spmi_device_alloc
+
 ---
 
 

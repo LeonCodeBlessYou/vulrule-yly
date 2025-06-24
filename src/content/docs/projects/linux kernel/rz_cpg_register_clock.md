@@ -1,4 +1,6 @@
 ---
+title: rz_cpg_register_clock
+
 ---
 
 

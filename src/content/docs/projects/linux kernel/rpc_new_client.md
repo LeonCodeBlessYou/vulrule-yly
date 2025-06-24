@@ -1,4 +1,6 @@
 ---
+title: rpc_new_client
+
 ---
 
 

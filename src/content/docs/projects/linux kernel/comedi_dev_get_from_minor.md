@@ -1,4 +1,6 @@
 ---
+title: comedi_dev_get_from_minor
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: nf_tables_chain_type_lookup
+
 ---
 
 

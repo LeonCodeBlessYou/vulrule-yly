@@ -1,4 +1,6 @@
 ---
+title: samsung_clk_alloc_reg_dump
+
 ---
 
 

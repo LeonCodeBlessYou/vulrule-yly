@@ -1,4 +1,6 @@
 ---
+title: fwnode_create_software_node
+
 ---
 
 

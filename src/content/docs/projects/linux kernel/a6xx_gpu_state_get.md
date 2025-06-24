@@ -1,4 +1,6 @@
 ---
+title: a6xx_gpu_state_get
+
 ---
 
 

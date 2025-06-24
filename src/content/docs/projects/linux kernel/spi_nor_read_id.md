@@ -1,4 +1,6 @@
 ---
+title: spi_nor_read_id
+
 ---
 
 

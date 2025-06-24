@@ -1,4 +1,6 @@
 ---
+title: acpi_request_own_gpiod
+
 ---
 
 

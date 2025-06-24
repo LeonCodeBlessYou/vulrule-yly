@@ -1,4 +1,6 @@
 ---
+title: i915_gpu_coredump_alloc
+
 ---
 
 

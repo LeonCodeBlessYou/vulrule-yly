@@ -1,4 +1,6 @@
 ---
+title: mdp4_lcdc_encoder_init
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: selinux_ima_collect_state
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: of_find_mipi_dsi_device_by_node
+
 ---
 
 

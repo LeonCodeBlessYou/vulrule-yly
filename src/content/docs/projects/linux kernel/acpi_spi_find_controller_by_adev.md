@@ -1,4 +1,6 @@
 ---
+title: acpi_spi_find_controller_by_adev
+
 ---
 
 

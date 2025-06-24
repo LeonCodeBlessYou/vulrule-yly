@@ -1,4 +1,6 @@
 ---
+title: tty_register_device_attr
+
 ---
 
 

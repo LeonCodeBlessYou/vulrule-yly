@@ -1,4 +1,6 @@
 ---
+title: stub_device_alloc
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: devm_qcom_smem_state_get
+
 ---
 
 

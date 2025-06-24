@@ -1,4 +1,6 @@
 ---
+title: drm_atomic_get_private_obj_state
+
 ---
 
 

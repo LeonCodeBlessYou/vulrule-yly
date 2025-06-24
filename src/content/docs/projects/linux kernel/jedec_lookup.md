@@ -1,4 +1,6 @@
 ---
+title: jedec_lookup
+
 ---
 
 

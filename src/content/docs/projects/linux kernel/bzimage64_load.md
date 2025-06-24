@@ -1,4 +1,6 @@
 ---
+title: bzimage64_load
+
 ---
 
 

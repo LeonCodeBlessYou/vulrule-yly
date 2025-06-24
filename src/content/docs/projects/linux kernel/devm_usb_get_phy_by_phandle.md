@@ -1,4 +1,6 @@
 ---
+title: devm_usb_get_phy_by_phandle
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: bcm47xx_nvram_get_contents
+
 ---
 
 

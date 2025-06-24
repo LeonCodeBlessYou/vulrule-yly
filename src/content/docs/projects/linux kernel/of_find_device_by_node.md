@@ -1,4 +1,6 @@
 ---
+title: of_find_device_by_node
+
 ---
 
 

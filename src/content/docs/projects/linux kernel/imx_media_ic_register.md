@@ -1,4 +1,6 @@
 ---
+title: imx_media_ic_register
+
 ---
 
 

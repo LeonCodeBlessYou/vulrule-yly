@@ -1,4 +1,6 @@
 ---
+title: cmd_alloc_ent
+
 ---
 
 

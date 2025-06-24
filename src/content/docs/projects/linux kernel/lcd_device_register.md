@@ -1,4 +1,6 @@
 ---
+title: lcd_device_register
+
 ---
 
 

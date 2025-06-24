@@ -1,4 +1,6 @@
 ---
+title: ingenic_tcu_get_clock
+
 ---
 
 

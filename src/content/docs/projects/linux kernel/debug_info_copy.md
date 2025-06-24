@@ -1,4 +1,6 @@
 ---
+title: debug_info_copy
+
 ---
 
 

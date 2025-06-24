@@ -1,4 +1,6 @@
 ---
+title: aspeed_g6_clk_hw_register_gate
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: get_current_nat_page
+
 ---
 
 

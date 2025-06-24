@@ -1,4 +1,6 @@
 ---
+title: kmem_alloc
+
 ---
 
 

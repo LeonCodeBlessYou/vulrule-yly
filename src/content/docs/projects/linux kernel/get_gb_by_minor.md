@@ -1,4 +1,6 @@
 ---
+title: get_gb_by_minor
+
 ---
 
 

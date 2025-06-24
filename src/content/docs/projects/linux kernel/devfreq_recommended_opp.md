@@ -1,4 +1,6 @@
 ---
+title: devfreq_recommended_opp
+
 ---
 
 

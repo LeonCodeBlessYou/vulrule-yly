@@ -1,4 +1,6 @@
 ---
+title: cpg_adsp_clk_register
+
 ---
 
 

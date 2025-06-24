@@ -1,4 +1,6 @@
 ---
+title: ath9k_htc_hw_alloc
+
 ---
 
 

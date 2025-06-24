@@ -1,4 +1,6 @@
 ---
+title: phonet_device_get
+
 ---
 
 

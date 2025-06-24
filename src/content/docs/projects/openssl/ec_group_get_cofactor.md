@@ -1,4 +1,6 @@
 ---
+title: ec_group_get_cofactor
+
 ---
 
 

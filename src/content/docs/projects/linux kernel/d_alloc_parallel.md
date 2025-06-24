@@ -1,4 +1,6 @@
 ---
+title: d_alloc_parallel
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: devm_spi_mem_dirmap_create
+
 ---
 
 

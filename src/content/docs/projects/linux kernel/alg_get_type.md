@@ -1,4 +1,6 @@
 ---
+title: alg_get_type
+
 ---
 
 

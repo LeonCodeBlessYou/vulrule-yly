@@ -1,4 +1,6 @@
 ---
+title: alloc_dma_rx_desc_resources
+
 ---
 
 

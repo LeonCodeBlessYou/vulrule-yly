@@ -1,4 +1,6 @@
 ---
+title: exynos_get_pmu_regmap
+
 ---
 
 

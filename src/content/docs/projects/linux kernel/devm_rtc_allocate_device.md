@@ -1,4 +1,6 @@
 ---
+title: devm_rtc_allocate_device
+
 ---
 
 

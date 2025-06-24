@@ -1,4 +1,6 @@
 ---
+title: blk_mq_init_queue
+
 ---
 
 

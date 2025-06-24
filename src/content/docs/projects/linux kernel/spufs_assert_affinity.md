@@ -1,4 +1,6 @@
 ---
+title: spufs_assert_affinity
+
 ---
 
 

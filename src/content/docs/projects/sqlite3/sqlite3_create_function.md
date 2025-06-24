@@ -1,4 +1,6 @@
 ---
+title: sqlite3_create_function
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: x509_name_get_index_by_nid
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: tegra210_clk_register_emc
+
 ---
 
 

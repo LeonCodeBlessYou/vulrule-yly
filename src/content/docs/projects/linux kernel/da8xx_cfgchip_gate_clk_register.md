@@ -1,4 +1,6 @@
 ---
+title: da8xx_cfgchip_gate_clk_register
+
 ---
 
 

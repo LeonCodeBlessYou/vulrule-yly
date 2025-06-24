@@ -1,4 +1,6 @@
 ---
+title: devm_intel_scu_ipc_register
+
 ---
 
 

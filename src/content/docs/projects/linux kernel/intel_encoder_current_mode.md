@@ -1,4 +1,6 @@
 ---
+title: intel_encoder_current_mode
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: arch_kexec_kernel_image_load
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: bpf_object__find_map_by_offset
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: s3c_adc_register
+
 ---
 
 

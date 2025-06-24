@@ -1,4 +1,6 @@
 ---
+title: rproc_get_by_phandle
+
 ---
 
 

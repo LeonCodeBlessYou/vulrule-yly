@@ -1,4 +1,6 @@
 ---
+title: vmci_resource_get
+
 ---
 
 

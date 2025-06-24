@@ -1,4 +1,6 @@
 ---
+title: amp_ctrl_get
+
 ---
 
 

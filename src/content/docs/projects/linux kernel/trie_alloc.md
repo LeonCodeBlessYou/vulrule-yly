@@ -1,4 +1,6 @@
 ---
+title: trie_alloc
+
 ---
 
 

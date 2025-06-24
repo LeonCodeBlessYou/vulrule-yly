@@ -1,4 +1,6 @@
 ---
+title: aspeed_g5_acquire_regmap
+
 ---
 
 

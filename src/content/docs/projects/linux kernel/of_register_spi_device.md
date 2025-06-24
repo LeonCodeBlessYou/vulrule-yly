@@ -1,4 +1,6 @@
 ---
+title: of_register_spi_device
+
 ---
 
 

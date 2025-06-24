@@ -1,4 +1,6 @@
 ---
+title: get_cluster_clk_and_freq_table
+
 ---
 
 

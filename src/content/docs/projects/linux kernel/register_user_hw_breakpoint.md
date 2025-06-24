@@ -1,4 +1,6 @@
 ---
+title: register_user_hw_breakpoint
+
 ---
 
 

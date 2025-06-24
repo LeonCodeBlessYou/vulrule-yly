@@ -1,4 +1,6 @@
 ---
+title: hid_allocate_device
+
 ---
 
 

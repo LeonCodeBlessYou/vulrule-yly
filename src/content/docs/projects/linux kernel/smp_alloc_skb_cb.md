@@ -1,4 +1,6 @@
 ---
+title: smp_alloc_skb_cb
+
 ---
 
 

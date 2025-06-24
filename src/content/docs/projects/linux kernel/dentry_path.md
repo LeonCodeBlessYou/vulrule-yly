@@ -1,4 +1,6 @@
 ---
+title: dentry_path
+
 ---
 
 

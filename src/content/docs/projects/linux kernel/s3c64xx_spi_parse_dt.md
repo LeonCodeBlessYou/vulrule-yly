@@ -1,4 +1,6 @@
 ---
+title: s3c64xx_spi_parse_dt
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: drm_do_get_edid_base_block
+
 ---
 
 

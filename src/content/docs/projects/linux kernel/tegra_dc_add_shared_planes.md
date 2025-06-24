@@ -1,4 +1,6 @@
 ---
+title: tegra_dc_add_shared_planes
+
 ---
 
 

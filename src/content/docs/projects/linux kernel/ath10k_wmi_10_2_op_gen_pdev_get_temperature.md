@@ -1,4 +1,6 @@
 ---
+title: ath10k_wmi_10_2_op_gen_pdev_get_temperature
+
 ---
 
 

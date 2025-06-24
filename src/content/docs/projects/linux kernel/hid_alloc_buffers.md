@@ -1,4 +1,6 @@
 ---
+title: hid_alloc_buffers
+
 ---
 
 

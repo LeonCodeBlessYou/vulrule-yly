@@ -1,4 +1,6 @@
 ---
+title: intel_spi_probe
+
 ---
 
 

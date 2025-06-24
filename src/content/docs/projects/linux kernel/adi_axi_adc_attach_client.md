@@ -1,4 +1,6 @@
 ---
+title: adi_axi_adc_attach_client
+
 ---
 
 

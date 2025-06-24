@@ -1,4 +1,6 @@
 ---
+title: qcom_smd_create_channel
+
 ---
 
 

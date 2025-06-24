@@ -1,4 +1,6 @@
 ---
+title: nft_trans_elem_alloc
+
 ---
 
 

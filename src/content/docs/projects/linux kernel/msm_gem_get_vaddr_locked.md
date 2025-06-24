@@ -1,4 +1,6 @@
 ---
+title: msm_gem_get_vaddr_locked
+
 ---
 
 

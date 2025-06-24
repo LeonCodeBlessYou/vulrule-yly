@@ -1,4 +1,6 @@
 ---
+title: vc4_perfmon_get
+
 ---
 
 

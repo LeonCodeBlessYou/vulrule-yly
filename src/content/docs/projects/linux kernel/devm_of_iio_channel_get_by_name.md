@@ -1,4 +1,6 @@
 ---
+title: devm_of_iio_channel_get_by_name
+
 ---
 
 

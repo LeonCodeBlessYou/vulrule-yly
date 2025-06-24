@@ -1,4 +1,6 @@
 ---
+title: mlx5_core_hairpin_create
+
 ---
 
 

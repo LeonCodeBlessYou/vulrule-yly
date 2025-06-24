@@ -1,4 +1,6 @@
 ---
+title: mmap_singleton
+
 ---
 
 

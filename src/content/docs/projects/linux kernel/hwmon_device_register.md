@@ -1,4 +1,6 @@
 ---
+title: hwmon_device_register
+
 ---
 
 

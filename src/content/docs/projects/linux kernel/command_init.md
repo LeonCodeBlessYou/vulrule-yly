@@ -1,4 +1,6 @@
 ---
+title: command_init
+
 ---
 
 

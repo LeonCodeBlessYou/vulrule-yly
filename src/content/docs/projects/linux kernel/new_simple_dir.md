@@ -1,4 +1,6 @@
 ---
+title: new_simple_dir
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: ext2_new_inode
+
 ---
 
 

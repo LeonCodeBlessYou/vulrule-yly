@@ -1,4 +1,6 @@
 ---
+title: wl1251_get_platform_data
+
 ---
 
 

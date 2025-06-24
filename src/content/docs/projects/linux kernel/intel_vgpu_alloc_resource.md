@@ -1,4 +1,6 @@
 ---
+title: intel_vgpu_alloc_resource
+
 ---
 
 

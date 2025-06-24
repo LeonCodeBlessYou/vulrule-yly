@@ -1,4 +1,6 @@
 ---
+title: regmap_get_i2c_bus
+
 ---
 
 

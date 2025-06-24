@@ -1,4 +1,6 @@
 ---
+title: ipv6_add_addr
+
 ---
 
 

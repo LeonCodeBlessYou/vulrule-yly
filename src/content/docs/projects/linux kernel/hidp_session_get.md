@@ -1,4 +1,6 @@
 ---
+title: hidp_session_get
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: devfreq_event_get_edev_by_phandle
+
 ---
 
 

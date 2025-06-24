@@ -1,4 +1,6 @@
 ---
+title: hwmon_genattr
+
 ---
 
 

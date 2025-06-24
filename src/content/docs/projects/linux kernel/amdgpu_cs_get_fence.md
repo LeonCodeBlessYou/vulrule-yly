@@ -1,4 +1,6 @@
 ---
+title: amdgpu_cs_get_fence
+
 ---
 
 

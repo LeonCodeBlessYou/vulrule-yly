@@ -1,4 +1,6 @@
 ---
+title: affs_nfs_get_inode
+
 ---
 
 

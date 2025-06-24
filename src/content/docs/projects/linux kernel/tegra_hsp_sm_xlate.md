@@ -1,4 +1,6 @@
 ---
+title: tegra_hsp_sm_xlate
+
 ---
 
 

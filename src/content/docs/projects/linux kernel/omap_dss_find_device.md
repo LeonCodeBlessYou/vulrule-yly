@@ -1,4 +1,6 @@
 ---
+title: omap_dss_find_device
+
 ---
 
 

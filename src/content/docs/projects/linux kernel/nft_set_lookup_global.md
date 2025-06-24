@@ -1,4 +1,6 @@
 ---
+title: nft_set_lookup_global
+
 ---
 
 

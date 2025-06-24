@@ -1,4 +1,6 @@
 ---
+title: c4iw_get_wr_wait
+
 ---
 
 

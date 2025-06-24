@@ -1,4 +1,6 @@
 ---
+title: gnutls_srp_allocate_client_credentials
+
 ---
 
 

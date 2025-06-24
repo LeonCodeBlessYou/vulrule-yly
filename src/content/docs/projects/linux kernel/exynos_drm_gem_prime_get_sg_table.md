@@ -1,4 +1,6 @@
 ---
+title: exynos_drm_gem_prime_get_sg_table
+
 ---
 
 

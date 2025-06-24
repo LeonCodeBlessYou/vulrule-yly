@@ -1,4 +1,6 @@
 ---
+title: komeda_component_add
+
 ---
 
 

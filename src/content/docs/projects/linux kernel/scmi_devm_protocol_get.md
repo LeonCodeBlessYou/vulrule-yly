@@ -1,4 +1,6 @@
 ---
+title: scmi_devm_protocol_get
+
 ---
 
 

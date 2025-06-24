@@ -1,4 +1,6 @@
 ---
+title: rdma_get_gid_attr
+
 ---
 
 

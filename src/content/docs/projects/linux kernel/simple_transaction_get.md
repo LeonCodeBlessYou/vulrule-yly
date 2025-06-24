@@ -1,4 +1,6 @@
 ---
+title: simple_transaction_get
+
 ---
 
 

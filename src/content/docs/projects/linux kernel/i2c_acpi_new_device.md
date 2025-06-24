@@ -1,4 +1,6 @@
 ---
+title: i2c_acpi_new_device
+
 ---
 
 

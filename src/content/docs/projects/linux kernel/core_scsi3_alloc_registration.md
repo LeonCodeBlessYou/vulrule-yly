@@ -1,4 +1,6 @@
 ---
+title: core_scsi3_alloc_registration
+
 ---
 
 

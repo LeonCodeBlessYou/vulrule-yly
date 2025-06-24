@@ -1,4 +1,6 @@
 ---
+title: drm_mode_object_find
+
 ---
 
 

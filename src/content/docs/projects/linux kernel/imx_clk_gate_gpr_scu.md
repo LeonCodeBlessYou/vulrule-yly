@@ -1,4 +1,6 @@
 ---
+title: imx_clk_gate_gpr_scu
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: ath10k_wmi_op_gen_pdev_resume
+
 ---
 
 

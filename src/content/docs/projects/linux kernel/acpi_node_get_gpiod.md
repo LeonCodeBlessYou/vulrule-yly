@@ -1,4 +1,6 @@
 ---
+title: acpi_node_get_gpiod
+
 ---
 
 

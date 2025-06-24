@@ -1,4 +1,6 @@
 ---
+title: of_at91_clk_pll_get_characteristics
+
 ---
 
 

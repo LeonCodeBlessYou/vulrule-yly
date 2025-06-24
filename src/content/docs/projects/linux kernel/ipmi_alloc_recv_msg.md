@@ -1,4 +1,6 @@
 ---
+title: ipmi_alloc_recv_msg
+
 ---
 
 

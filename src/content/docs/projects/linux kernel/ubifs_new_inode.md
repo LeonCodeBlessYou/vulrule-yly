@@ -1,4 +1,6 @@
 ---
+title: ubifs_new_inode
+
 ---
 
 

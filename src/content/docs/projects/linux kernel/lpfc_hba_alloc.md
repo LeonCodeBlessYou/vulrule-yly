@@ -1,4 +1,6 @@
 ---
+title: lpfc_hba_alloc
+
 ---
 
 

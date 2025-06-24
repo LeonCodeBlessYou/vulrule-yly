@@ -1,4 +1,6 @@
 ---
+title: agp_allocate_memory_wrap
+
 ---
 
 

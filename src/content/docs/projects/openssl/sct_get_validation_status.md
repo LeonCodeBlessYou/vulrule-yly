@@ -1,4 +1,6 @@
 ---
+title: sct_get_validation_status
+
 ---
 
 

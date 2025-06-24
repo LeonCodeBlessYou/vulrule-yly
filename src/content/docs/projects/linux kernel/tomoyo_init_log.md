@@ -1,4 +1,6 @@
 ---
+title: tomoyo_init_log
+
 ---
 
 

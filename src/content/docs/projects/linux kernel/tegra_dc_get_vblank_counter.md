@@ -1,4 +1,6 @@
 ---
+title: tegra_dc_get_vblank_counter
+
 ---
 
 

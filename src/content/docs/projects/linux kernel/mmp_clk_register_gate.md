@@ -1,4 +1,6 @@
 ---
+title: mmp_clk_register_gate
+
 ---
 
 

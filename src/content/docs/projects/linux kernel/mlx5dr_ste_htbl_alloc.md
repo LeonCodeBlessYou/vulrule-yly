@@ -1,4 +1,6 @@
 ---
+title: mlx5dr_ste_htbl_alloc
+
 ---
 
 

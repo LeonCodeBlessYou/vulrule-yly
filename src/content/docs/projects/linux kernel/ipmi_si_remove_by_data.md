@@ -1,4 +1,6 @@
 ---
+title: ipmi_si_remove_by_data
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: ssl_get_peer_certificate
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: q6adm_open
+
 ---
 
 

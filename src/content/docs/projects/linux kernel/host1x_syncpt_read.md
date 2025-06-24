@@ -1,4 +1,6 @@
 ---
+title: host1x_syncpt_read
+
 ---
 
 

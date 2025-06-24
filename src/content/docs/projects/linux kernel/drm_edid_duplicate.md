@@ -1,4 +1,6 @@
 ---
+title: drm_edid_duplicate
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: mpt3sas_get_sdev_by_handle
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: uniphier_clk_register_fixed_factor
+
 ---
 
 

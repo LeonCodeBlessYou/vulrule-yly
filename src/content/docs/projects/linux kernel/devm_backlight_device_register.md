@@ -1,4 +1,6 @@
 ---
+title: devm_backlight_device_register
+
 ---
 
 

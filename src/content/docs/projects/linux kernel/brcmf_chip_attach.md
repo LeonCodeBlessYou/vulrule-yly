@@ -1,4 +1,6 @@
 ---
+title: brcmf_chip_attach
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: of_i2c_register_device
+
 ---
 
 

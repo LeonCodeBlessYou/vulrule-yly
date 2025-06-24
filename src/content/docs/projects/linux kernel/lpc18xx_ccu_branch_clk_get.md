@@ -1,4 +1,6 @@
 ---
+title: lpc18xx_ccu_branch_clk_get
+
 ---
 
 

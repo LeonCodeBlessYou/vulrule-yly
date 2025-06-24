@@ -1,4 +1,6 @@
 ---
+title: mmc_blk_get
+
 ---
 
 

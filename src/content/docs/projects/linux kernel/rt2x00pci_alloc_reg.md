@@ -1,4 +1,6 @@
 ---
+title: rt2x00pci_alloc_reg
+
 ---
 
 

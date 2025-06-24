@@ -1,4 +1,6 @@
 ---
+title: devm_drm_panel_bridge_add_typed
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: dell_smm_fan_label
+
 ---
 
 

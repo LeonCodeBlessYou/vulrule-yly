@@ -1,4 +1,6 @@
 ---
+title: hash_alloc_result
+
 ---
 
 

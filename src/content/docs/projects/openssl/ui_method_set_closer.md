@@ -1,4 +1,6 @@
 ---
+title: ui_method_set_closer
+
 ---
 
 

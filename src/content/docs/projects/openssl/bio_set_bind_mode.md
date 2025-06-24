@@ -1,4 +1,6 @@
 ---
+title: bio_set_bind_mode
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: pinctrl_register
+
 ---
 
 

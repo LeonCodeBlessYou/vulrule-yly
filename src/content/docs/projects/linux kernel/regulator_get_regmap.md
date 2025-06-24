@@ -1,4 +1,6 @@
 ---
+title: regulator_get_regmap
+
 ---
 
 

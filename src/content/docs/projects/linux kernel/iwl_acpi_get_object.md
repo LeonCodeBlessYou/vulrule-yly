@@ -1,4 +1,6 @@
 ---
+title: iwl_acpi_get_object
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: xfs_nfs_get_inode
+
 ---
 
 

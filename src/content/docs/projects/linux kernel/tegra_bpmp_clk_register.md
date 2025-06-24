@@ -1,4 +1,6 @@
 ---
+title: tegra_bpmp_clk_register
+
 ---
 
 

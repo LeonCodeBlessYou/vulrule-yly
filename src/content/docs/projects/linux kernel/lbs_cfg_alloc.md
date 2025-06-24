@@ -1,4 +1,6 @@
 ---
+title: lbs_cfg_alloc
+
 ---
 
 

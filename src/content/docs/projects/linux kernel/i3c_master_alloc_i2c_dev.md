@@ -1,4 +1,6 @@
 ---
+title: i3c_master_alloc_i2c_dev
+
 ---
 
 

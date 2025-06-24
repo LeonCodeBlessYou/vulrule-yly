@@ -1,4 +1,6 @@
 ---
+title: cpg_mstp_clock_register
+
 ---
 
 

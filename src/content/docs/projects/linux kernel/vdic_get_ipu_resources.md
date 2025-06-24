@@ -1,4 +1,6 @@
 ---
+title: vdic_get_ipu_resources
+
 ---
 
 

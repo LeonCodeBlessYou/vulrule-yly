@@ -1,4 +1,6 @@
 ---
+title: amdgpu_gem_prime_import
+
 ---
 
 

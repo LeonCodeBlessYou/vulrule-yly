@@ -1,4 +1,6 @@
 ---
+title: net_dm_hw_reset_per_cpu_data
+
 ---
 
 

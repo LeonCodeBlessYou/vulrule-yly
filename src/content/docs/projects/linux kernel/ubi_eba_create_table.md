@@ -1,4 +1,6 @@
 ---
+title: ubi_eba_create_table
+
 ---
 
 

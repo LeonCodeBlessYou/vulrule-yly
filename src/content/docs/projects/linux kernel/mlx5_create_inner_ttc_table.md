@@ -1,4 +1,6 @@
 ---
+title: mlx5_create_inner_ttc_table
+
 ---
 
 

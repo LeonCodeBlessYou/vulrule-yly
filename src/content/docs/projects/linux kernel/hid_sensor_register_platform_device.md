@@ -1,4 +1,6 @@
 ---
+title: hid_sensor_register_platform_device
+
 ---
 
 

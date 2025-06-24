@@ -1,4 +1,6 @@
 ---
+title: comedi_alloc_board_minor
+
 ---
 
 

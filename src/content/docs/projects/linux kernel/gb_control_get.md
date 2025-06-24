@@ -1,4 +1,6 @@
 ---
+title: gb_control_get
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: ath10k_wmi_tlv_op_gen_request_peer_stats_info
+
 ---
 
 

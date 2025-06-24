@@ -1,4 +1,6 @@
 ---
+title: of_find_spi_gpio
+
 ---
 
 

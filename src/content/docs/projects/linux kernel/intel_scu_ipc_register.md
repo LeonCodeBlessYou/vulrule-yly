@@ -1,4 +1,6 @@
 ---
+title: intel_scu_ipc_register
+
 ---
 
 

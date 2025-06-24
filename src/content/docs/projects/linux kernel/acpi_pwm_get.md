@@ -1,4 +1,6 @@
 ---
+title: acpi_pwm_get
+
 ---
 
 

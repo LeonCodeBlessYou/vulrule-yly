@@ -1,4 +1,6 @@
 ---
+title: ionic_devlink_alloc
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: spi_dev_get
+
 ---
 
 

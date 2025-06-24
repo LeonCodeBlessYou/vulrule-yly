@@ -1,4 +1,6 @@
 ---
+title: x509_store_ctx_get_error_depth
+
 ---
 
 

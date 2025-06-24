@@ -1,4 +1,6 @@
 ---
+title: c2port_device_register
+
 ---
 
 

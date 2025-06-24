@@ -1,4 +1,6 @@
 ---
+title: mt7621_pcie_phy_of_xlate
+
 ---
 
 

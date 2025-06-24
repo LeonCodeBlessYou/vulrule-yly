@@ -1,4 +1,6 @@
 ---
+title: i915_gem_object_pin_map_unlocked
+
 ---
 
 

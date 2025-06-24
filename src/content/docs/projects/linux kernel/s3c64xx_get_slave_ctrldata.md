@@ -1,4 +1,6 @@
 ---
+title: s3c64xx_get_slave_ctrldata
+
 ---
 
 

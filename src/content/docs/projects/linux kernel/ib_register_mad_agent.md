@@ -1,4 +1,6 @@
 ---
+title: ib_register_mad_agent
+
 ---
 
 

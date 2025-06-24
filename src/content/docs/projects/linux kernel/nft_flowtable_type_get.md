@@ -1,4 +1,6 @@
 ---
+title: nft_flowtable_type_get
+
 ---
 
 

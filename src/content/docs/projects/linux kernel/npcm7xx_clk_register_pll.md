@@ -1,4 +1,6 @@
 ---
+title: npcm7xx_clk_register_pll
+
 ---
 
 

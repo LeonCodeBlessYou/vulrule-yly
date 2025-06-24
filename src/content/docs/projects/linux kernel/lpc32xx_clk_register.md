@@ -1,4 +1,6 @@
 ---
+title: lpc32xx_clk_register
+
 ---
 
 

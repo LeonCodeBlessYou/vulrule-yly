@@ -1,4 +1,6 @@
 ---
+title: ipmr_new_table
+
 ---
 
 

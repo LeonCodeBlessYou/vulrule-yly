@@ -1,4 +1,6 @@
 ---
+title: jffs2_get_parent
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: edac_device_alloc_ctl_info
+
 ---
 
 

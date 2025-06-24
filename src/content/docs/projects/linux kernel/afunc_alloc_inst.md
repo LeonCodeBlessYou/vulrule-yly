@@ -1,4 +1,6 @@
 ---
+title: afunc_alloc_inst
+
 ---
 
 

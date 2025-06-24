@@ -1,4 +1,6 @@
 ---
+title: at91_clk_register_sam9x5_slow
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: ftrace_alloc_direct_func
+
 ---
 
 

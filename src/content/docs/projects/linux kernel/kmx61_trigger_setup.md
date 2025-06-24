@@ -1,4 +1,6 @@
 ---
+title: kmx61_trigger_setup
+
 ---
 
 

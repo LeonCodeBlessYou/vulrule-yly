@@ -1,4 +1,6 @@
 ---
+title: fimc_get_sysreg_regmap
+
 ---
 
 

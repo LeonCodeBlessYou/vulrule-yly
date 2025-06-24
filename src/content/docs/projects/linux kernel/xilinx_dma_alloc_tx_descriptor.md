@@ -1,4 +1,6 @@
 ---
+title: xilinx_dma_alloc_tx_descriptor
+
 ---
 
 

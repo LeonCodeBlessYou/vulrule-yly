@@ -1,4 +1,6 @@
 ---
+title: imx_obtain_fixed_clock_from_dt
+
 ---
 
 

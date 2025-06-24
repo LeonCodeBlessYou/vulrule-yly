@@ -1,4 +1,6 @@
 ---
+title: gpiochip_alloc_valid_mask
+
 ---
 
 

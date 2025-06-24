@@ -1,4 +1,6 @@
 ---
+title: ceph_auth_init
+
 ---
 
 

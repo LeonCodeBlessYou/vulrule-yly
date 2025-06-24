@@ -1,4 +1,6 @@
 ---
+title: imx7ulp_clk_hw_composite
+
 ---
 
 

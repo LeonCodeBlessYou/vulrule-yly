@@ -1,4 +1,6 @@
 ---
+title: iio_buffer_alloc_sysfs_and_mask
+
 ---
 
 

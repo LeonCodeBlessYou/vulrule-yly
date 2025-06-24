@@ -1,4 +1,6 @@
 ---
+title: irq_get_domain_generic_chip
+
 ---
 
 

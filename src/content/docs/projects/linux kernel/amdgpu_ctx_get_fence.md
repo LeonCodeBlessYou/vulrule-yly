@@ -1,4 +1,6 @@
 ---
+title: amdgpu_ctx_get_fence
+
 ---
 
 

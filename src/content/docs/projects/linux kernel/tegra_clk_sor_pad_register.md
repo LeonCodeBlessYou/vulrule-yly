@@ -1,4 +1,6 @@
 ---
+title: tegra_clk_sor_pad_register
+
 ---
 
 

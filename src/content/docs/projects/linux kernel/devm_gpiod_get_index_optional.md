@@ -1,4 +1,6 @@
 ---
+title: devm_gpiod_get_index_optional
+
 ---
 
 

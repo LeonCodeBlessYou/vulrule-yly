@@ -1,4 +1,6 @@
 ---
+title: coretemp_device_add
+
 ---
 
 

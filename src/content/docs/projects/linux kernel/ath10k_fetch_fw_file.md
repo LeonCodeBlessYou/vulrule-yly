@@ -1,4 +1,6 @@
 ---
+title: ath10k_fetch_fw_file
+
 ---
 
 

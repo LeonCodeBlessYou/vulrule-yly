@@ -1,4 +1,6 @@
 ---
+title: of_get_named_gpiod_flags
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: rockchip_get_core_reset
+
 ---
 
 

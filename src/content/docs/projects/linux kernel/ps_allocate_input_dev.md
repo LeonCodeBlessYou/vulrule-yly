@@ -1,4 +1,6 @@
 ---
+title: ps_allocate_input_dev
+
 ---
 
 

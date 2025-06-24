@@ -1,4 +1,6 @@
 ---
+title: intel_partial_pages
+
 ---
 
 

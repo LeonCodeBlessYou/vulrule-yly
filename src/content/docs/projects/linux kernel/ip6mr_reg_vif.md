@@ -1,4 +1,6 @@
 ---
+title: ip6mr_reg_vif
+
 ---
 
 

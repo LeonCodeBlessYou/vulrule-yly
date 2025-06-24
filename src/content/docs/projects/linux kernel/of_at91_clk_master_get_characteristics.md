@@ -1,4 +1,6 @@
 ---
+title: of_at91_clk_master_get_characteristics
+
 ---
 
 

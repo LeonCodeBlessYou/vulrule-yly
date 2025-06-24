@@ -1,4 +1,6 @@
 ---
+title: left_znode
+
 ---
 
 

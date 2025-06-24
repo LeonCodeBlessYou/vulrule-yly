@@ -1,4 +1,6 @@
 ---
+title: snd_hda_jack_detect_enable_callback
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: rdma_get_counter_auto_mode
+
 ---
 
 

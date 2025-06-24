@@ -1,4 +1,6 @@
 ---
+title: bnxt_re_get_dma_mr
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: sh_mobile_i2c_request_dma_chan
+
 ---
 
 

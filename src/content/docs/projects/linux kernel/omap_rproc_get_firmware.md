@@ -1,4 +1,6 @@
 ---
+title: omap_rproc_get_firmware
+
 ---
 
 

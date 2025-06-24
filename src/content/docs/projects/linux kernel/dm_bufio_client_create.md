@@ -1,4 +1,6 @@
 ---
+title: dm_bufio_client_create
+
 ---
 
 

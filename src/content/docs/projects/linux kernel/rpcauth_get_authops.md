@@ -1,4 +1,6 @@
 ---
+title: rpcauth_get_authops
+
 ---
 
 

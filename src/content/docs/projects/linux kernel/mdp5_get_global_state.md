@@ -1,4 +1,6 @@
 ---
+title: mdp5_get_global_state
+
 ---
 
 

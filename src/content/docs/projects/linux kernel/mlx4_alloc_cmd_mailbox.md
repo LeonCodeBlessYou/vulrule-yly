@@ -1,4 +1,6 @@
 ---
+title: mlx4_alloc_cmd_mailbox
+
 ---
 
 

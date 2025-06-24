@@ -1,4 +1,6 @@
 ---
+title: i2c_new_slave_host_notify_device
+
 ---
 
 

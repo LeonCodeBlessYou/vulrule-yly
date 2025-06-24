@@ -1,4 +1,6 @@
 ---
+title: dma_init_coherent_memory
+
 ---
 
 

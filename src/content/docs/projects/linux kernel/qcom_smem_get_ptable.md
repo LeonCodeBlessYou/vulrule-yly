@@ -1,4 +1,6 @@
 ---
+title: qcom_smem_get_ptable
+
 ---
 
 

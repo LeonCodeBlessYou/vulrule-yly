@@ -1,4 +1,6 @@
 ---
+title: gnutls_srp_free_client_credentials
+
 ---
 
 

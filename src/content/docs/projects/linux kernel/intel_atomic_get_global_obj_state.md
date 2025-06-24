@@ -1,4 +1,6 @@
 ---
+title: intel_atomic_get_global_obj_state
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: reg_create
+
 ---
 
 

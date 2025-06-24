@@ -1,4 +1,6 @@
 ---
+title: loopback_alloc_instance
+
 ---
 
 

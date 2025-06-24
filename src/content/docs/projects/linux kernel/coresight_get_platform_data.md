@@ -1,4 +1,6 @@
 ---
+title: coresight_get_platform_data
+
 ---
 
 

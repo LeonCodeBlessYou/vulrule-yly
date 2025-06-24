@@ -1,4 +1,6 @@
 ---
+title: avcodec_get_hw_frames_parameters
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: uobj_get_destroy
+
 ---
 
 

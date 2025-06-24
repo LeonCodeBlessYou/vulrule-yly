@@ -1,4 +1,6 @@
 ---
+title: dm_get_target_type
+
 ---
 
 

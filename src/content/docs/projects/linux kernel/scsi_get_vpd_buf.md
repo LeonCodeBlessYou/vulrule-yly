@@ -1,4 +1,6 @@
 ---
+title: scsi_get_vpd_buf
+
 ---
 
 

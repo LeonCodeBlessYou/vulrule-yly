@@ -1,4 +1,6 @@
 ---
+title: imx_media_pipeline_video_device
+
 ---
 
 

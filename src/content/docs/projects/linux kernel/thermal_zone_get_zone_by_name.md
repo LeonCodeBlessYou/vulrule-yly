@@ -1,4 +1,6 @@
 ---
+title: thermal_zone_get_zone_by_name
+
 ---
 
 

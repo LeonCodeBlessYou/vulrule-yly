@@ -1,4 +1,6 @@
 ---
+title: ath10k_ce_alloc_dest_ring_64
+
 ---
 
 

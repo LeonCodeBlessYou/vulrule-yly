@@ -1,4 +1,6 @@
 ---
+title: l2cap_global_fixed_chan
+
 ---
 
 

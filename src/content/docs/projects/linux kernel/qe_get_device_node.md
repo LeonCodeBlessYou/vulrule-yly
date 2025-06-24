@@ -1,4 +1,6 @@
 ---
+title: qe_get_device_node
+
 ---
 
 

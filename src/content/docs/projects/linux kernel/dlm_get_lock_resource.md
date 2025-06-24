@@ -1,4 +1,6 @@
 ---
+title: dlm_get_lock_resource
+
 ---
 
 

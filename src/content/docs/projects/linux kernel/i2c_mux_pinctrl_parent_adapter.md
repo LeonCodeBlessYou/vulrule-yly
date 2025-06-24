@@ -1,4 +1,6 @@
 ---
+title: i2c_mux_pinctrl_parent_adapter
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: sun8i_tcon_top_register_gate
+
 ---
 
 

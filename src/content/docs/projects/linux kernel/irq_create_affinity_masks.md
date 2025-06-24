@@ -1,4 +1,6 @@
 ---
+title: irq_create_affinity_masks
+
 ---
 
 

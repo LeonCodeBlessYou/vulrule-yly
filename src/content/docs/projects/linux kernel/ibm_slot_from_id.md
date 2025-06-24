@@ -1,4 +1,6 @@
 ---
+title: ibm_slot_from_id
+
 ---
 
 

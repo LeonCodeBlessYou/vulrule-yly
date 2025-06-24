@@ -1,4 +1,6 @@
 ---
+title: thermal_zone_of_sensor_register
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: jfs_nfs_get_inode
+
 ---
 
 

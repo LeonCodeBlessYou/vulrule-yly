@@ -1,4 +1,6 @@
 ---
+title: snd_midi_channel_alloc_set
+
 ---
 
 

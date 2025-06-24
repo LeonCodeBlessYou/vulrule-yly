@@ -1,4 +1,6 @@
 ---
+title: ti_syscon_gate_clk_register
+
 ---
 
 

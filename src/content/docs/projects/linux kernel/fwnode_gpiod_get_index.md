@@ -1,4 +1,6 @@
 ---
+title: fwnode_gpiod_get_index
+
 ---
 
 

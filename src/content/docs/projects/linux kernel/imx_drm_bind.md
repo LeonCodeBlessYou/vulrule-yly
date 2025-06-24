@@ -1,4 +1,6 @@
 ---
+title: imx_drm_bind
+
 ---
 
 

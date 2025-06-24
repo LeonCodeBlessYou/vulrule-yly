@@ -1,4 +1,6 @@
 ---
+title: gelic_eurus_sync_cmd
+
 ---
 
 

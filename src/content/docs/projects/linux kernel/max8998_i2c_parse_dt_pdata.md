@@ -1,4 +1,6 @@
 ---
+title: max8998_i2c_parse_dt_pdata
+
 ---
 
 

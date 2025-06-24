@@ -1,4 +1,6 @@
 ---
+title: taos_instantiate_device
+
 ---
 
 

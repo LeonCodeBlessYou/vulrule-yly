@@ -1,4 +1,6 @@
 ---
+title: ath11k_ahb_power_up
+
 ---
 
 

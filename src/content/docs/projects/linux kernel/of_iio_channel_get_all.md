@@ -1,4 +1,6 @@
 ---
+title: of_iio_channel_get_all
+
 ---
 
 

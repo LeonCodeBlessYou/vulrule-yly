@@ -1,4 +1,6 @@
 ---
+title: sqlite3_last_insert_rowid
+
 ---
 
 

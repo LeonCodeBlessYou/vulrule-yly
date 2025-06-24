@@ -1,4 +1,6 @@
 ---
+title: sqlite3_value_numeric_type
+
 ---
 
 

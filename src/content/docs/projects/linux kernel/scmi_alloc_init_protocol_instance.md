@@ -1,4 +1,6 @@
 ---
+title: scmi_alloc_init_protocol_instance
+
 ---
 
 

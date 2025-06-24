@@ -1,4 +1,6 @@
 ---
+title: imx_clk_mux_gpr_scu
+
 ---
 
 

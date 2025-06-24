@@ -1,4 +1,6 @@
 ---
+title: imx_media_capture_device_init
+
 ---
 
 

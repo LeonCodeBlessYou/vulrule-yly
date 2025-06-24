@@ -1,4 +1,6 @@
 ---
+title: gpiochip_get_desc
+
 ---
 
 

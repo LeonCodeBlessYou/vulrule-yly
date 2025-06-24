@@ -1,4 +1,6 @@
 ---
+title: devm_thermal_zone_of_sensor_register
+
 ---
 
 

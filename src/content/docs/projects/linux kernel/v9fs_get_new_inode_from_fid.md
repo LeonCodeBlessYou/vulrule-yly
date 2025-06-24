@@ -1,4 +1,6 @@
 ---
+title: v9fs_get_new_inode_from_fid
+
 ---
 
 

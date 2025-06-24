@@ -1,4 +1,6 @@
 ---
+title: mlxsw_afa_cookie_create
+
 ---
 
 

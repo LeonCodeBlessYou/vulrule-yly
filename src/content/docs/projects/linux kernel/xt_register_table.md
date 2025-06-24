@@ -1,4 +1,6 @@
 ---
+title: xt_register_table
+
 ---
 
 

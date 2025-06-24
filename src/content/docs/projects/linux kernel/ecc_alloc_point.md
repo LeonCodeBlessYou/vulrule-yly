@@ -1,4 +1,6 @@
 ---
+title: ecc_alloc_point
+
 ---
 
 

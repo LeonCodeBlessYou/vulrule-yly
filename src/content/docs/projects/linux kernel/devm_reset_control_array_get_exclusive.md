@@ -1,4 +1,6 @@
 ---
+title: devm_reset_control_array_get_exclusive
+
 ---
 
 

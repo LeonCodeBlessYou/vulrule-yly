@@ -1,4 +1,6 @@
 ---
+title: mlxsw_sp_span_trigger_entry_create
+
 ---
 
 

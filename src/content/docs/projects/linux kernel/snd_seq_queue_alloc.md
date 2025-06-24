@@ -1,4 +1,6 @@
 ---
+title: snd_seq_queue_alloc
+
 ---
 
 

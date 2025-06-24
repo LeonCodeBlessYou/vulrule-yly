@@ -1,4 +1,6 @@
 ---
+title: kirin_drm_bind
+
 ---
 
 

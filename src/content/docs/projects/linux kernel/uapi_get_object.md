@@ -1,4 +1,6 @@
 ---
+title: uapi_get_object
+
 ---
 
 

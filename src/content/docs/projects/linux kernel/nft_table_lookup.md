@@ -1,4 +1,6 @@
 ---
+title: nft_table_lookup
+
 ---
 
 

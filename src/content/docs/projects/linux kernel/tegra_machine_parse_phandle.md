@@ -1,4 +1,6 @@
 ---
+title: tegra_machine_parse_phandle
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: cp110_register_gate
+
 ---
 
 

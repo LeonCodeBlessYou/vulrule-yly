@@ -1,4 +1,6 @@
 ---
+title: of_coresight_get_port_parent
+
 ---
 
 

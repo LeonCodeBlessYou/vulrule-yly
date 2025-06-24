@@ -1,4 +1,6 @@
 ---
+title: xfs_alloc_buftarg
+
 ---
 
 

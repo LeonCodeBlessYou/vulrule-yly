@@ -1,4 +1,6 @@
 ---
+title: komeda_pipeline_get_state_and_set_crtc
+
 ---
 
 

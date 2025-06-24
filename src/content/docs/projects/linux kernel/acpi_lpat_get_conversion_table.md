@@ -1,4 +1,6 @@
 ---
+title: acpi_lpat_get_conversion_table
+
 ---
 
 

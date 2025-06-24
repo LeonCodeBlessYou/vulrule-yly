@@ -1,4 +1,6 @@
 ---
+title: devm_iio_channel_get
+
 ---
 
 

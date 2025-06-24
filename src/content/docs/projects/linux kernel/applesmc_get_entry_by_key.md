@@ -1,4 +1,6 @@
 ---
+title: applesmc_get_entry_by_key
+
 ---
 
 

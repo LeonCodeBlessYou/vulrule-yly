@@ -1,4 +1,6 @@
 ---
+title: platform_msi_alloc_priv_data
+
 ---
 
 

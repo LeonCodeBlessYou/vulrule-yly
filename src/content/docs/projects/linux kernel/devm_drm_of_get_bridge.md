@@ -1,4 +1,6 @@
 ---
+title: devm_drm_of_get_bridge
+
 ---
 
 

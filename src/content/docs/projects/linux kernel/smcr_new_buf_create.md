@@ -1,4 +1,6 @@
 ---
+title: smcr_new_buf_create
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: qcom_smdrpm_clk_hw_get
+
 ---
 
 

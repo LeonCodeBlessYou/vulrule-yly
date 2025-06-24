@@ -1,4 +1,6 @@
 ---
+title: dynamic_dname
+
 ---
 
 

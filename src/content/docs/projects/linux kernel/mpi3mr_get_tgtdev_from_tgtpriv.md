@@ -1,4 +1,6 @@
 ---
+title: mpi3mr_get_tgtdev_from_tgtpriv
+
 ---
 
 

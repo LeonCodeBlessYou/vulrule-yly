@@ -1,4 +1,6 @@
 ---
+title: panfrost_fence_create
+
 ---
 
 

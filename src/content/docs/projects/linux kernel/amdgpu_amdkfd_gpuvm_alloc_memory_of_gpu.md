@@ -1,4 +1,6 @@
 ---
+title: amdgpu_amdkfd_gpuvm_alloc_memory_of_gpu
+
 ---
 
 

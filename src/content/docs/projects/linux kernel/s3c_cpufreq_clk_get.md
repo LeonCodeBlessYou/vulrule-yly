@@ -1,4 +1,6 @@
 ---
+title: s3c_cpufreq_clk_get
+
 ---
 
 

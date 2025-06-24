@@ -1,4 +1,6 @@
 ---
+title: catu_init_sg_table
+
 ---
 
 

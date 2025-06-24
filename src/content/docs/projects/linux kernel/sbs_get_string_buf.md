@@ -1,4 +1,6 @@
 ---
+title: sbs_get_string_buf
+
 ---
 
 

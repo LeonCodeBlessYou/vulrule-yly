@@ -1,4 +1,6 @@
 ---
+title: mlxsw_sp_nexthop6_group_create
+
 ---
 
 

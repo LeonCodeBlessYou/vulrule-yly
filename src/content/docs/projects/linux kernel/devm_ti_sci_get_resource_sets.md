@@ -1,4 +1,6 @@
 ---
+title: devm_ti_sci_get_resource_sets
+
 ---
 
 

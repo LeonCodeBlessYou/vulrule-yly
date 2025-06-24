@@ -1,4 +1,6 @@
 ---
+title: sgx_encl_page_alloc
+
 ---
 
 

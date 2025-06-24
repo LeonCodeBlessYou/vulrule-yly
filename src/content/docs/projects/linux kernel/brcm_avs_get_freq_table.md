@@ -1,4 +1,6 @@
 ---
+title: brcm_avs_get_freq_table
+
 ---
 
 

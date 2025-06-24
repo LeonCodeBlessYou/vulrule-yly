@@ -1,4 +1,6 @@
 ---
+title: altr_sysmgr_regmap_lookup_by_phandle
+
 ---
 
 

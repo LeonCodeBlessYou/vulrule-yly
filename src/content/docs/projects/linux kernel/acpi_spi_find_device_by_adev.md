@@ -1,4 +1,6 @@
 ---
+title: acpi_spi_find_device_by_adev
+
 ---
 
 

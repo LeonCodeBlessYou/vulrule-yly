@@ -1,4 +1,6 @@
 ---
+title: solo_enc_alloc
+
 ---
 
 

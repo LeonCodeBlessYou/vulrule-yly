@@ -1,4 +1,6 @@
 ---
+title: ftrace_add_rec_direct
+
 ---
 
 

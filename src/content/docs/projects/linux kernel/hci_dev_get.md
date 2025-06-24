@@ -1,4 +1,6 @@
 ---
+title: hci_dev_get
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: mdp4_dsi_encoder_init
+
 ---
 
 

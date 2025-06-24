@@ -1,4 +1,6 @@
 ---
+title: generate_dma_contract
+
 ---
 
 

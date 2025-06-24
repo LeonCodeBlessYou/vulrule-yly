@@ -1,4 +1,6 @@
 ---
+title: synaptics_i2c_touch_create
+
 ---
 
 

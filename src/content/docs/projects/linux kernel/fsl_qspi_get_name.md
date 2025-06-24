@@ -1,4 +1,6 @@
 ---
+title: fsl_qspi_get_name
+
 ---
 
 

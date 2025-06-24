@@ -1,4 +1,6 @@
 ---
+title: drmm_crtc_alloc_with_planes
+
 ---
 
 

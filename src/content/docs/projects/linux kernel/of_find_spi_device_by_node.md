@@ -1,4 +1,6 @@
 ---
+title: of_find_spi_device_by_node
+
 ---
 
 

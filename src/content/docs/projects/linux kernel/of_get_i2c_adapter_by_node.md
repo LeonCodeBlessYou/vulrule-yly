@@ -1,4 +1,6 @@
 ---
+title: of_get_i2c_adapter_by_node
+
 ---
 
 

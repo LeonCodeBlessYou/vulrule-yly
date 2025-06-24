@@ -1,4 +1,6 @@
 ---
+title: bpf_map__attach_struct_ops
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: cx88_core_get
+
 ---
 
 

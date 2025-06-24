@@ -1,4 +1,6 @@
 ---
+title: coresight_cti_get_platform_data
+
 ---
 
 

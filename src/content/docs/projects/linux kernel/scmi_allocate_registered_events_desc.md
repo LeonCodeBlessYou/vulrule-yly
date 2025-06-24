@@ -1,4 +1,6 @@
 ---
+title: scmi_allocate_registered_events_desc
+
 ---
 
 

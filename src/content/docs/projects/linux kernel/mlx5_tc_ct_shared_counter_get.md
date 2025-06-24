@@ -1,4 +1,6 @@
 ---
+title: mlx5_tc_ct_shared_counter_get
+
 ---
 
 

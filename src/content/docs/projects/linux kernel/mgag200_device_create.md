@@ -1,4 +1,6 @@
 ---
+title: mgag200_device_create
+
 ---
 
 

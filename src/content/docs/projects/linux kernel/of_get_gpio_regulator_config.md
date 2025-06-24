@@ -1,4 +1,6 @@
 ---
+title: of_get_gpio_regulator_config
+
 ---
 
 

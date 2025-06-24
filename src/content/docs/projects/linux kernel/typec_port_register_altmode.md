@@ -1,4 +1,6 @@
 ---
+title: typec_port_register_altmode
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: atmel_ecc_i2c_client_alloc
+
 ---
 
 

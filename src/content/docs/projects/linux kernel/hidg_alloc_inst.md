@@ -1,4 +1,6 @@
 ---
+title: hidg_alloc_inst
+
 ---
 
 

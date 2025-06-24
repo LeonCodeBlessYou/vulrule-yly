@@ -1,4 +1,6 @@
 ---
+title: ecryptfs_mount
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: a6xx_gmu_get_mmio
+
 ---
 
 

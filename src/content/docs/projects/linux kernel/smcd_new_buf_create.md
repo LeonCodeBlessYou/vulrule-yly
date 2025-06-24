@@ -1,4 +1,6 @@
 ---
+title: smcd_new_buf_create
+
 ---
 
 

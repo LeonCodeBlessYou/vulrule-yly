@@ -1,4 +1,6 @@
 ---
+title: rpi_firmware_get
+
 ---
 
 

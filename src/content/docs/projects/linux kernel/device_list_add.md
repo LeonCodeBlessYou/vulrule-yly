@@ -1,4 +1,6 @@
 ---
+title: device_list_add
+
 ---
 
 

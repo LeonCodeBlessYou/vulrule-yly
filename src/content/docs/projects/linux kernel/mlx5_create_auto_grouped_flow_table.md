@@ -1,4 +1,6 @@
 ---
+title: mlx5_create_auto_grouped_flow_table
+
 ---
 
 

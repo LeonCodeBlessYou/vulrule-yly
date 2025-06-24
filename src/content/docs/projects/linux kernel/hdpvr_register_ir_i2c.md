@@ -1,4 +1,6 @@
 ---
+title: hdpvr_register_ir_i2c
+
 ---
 
 

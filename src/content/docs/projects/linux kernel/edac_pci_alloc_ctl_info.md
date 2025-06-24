@@ -1,4 +1,6 @@
 ---
+title: edac_pci_alloc_ctl_info
+
 ---
 
 

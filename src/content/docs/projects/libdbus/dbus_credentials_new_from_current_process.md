@@ -1,4 +1,6 @@
 ---
+title: dbus_credentials_new_from_current_process
+
 ---
 
 

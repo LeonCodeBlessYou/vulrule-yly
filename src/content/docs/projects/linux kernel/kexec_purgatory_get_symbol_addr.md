@@ -1,4 +1,6 @@
 ---
+title: kexec_purgatory_get_symbol_addr
+
 ---
 
 

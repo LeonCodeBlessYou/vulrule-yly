@@ -1,4 +1,6 @@
 ---
+title: acpi_gpiochip_parse_own_gpio
+
 ---
 
 

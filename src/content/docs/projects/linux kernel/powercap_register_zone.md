@@ -1,4 +1,6 @@
 ---
+title: powercap_register_zone
+
 ---
 
 

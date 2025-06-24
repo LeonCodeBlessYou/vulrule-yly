@@ -1,4 +1,6 @@
 ---
+title: f2fs_new_inode_page
+
 ---
 
 

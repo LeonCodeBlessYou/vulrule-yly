@@ -1,4 +1,6 @@
 ---
+title: do_kimage_alloc_init
+
 ---
 
 

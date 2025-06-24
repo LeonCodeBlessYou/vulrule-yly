@@ -1,4 +1,6 @@
 ---
+title: clk_reg_sysctrl_gate_fixed_rate
+
 ---
 
 

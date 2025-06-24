@@ -1,4 +1,6 @@
 ---
+title: ti_omap4_clkctrl_xlate
+
 ---
 
 

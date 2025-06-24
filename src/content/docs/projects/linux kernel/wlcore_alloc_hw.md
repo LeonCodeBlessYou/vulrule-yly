@@ -1,4 +1,6 @@
 ---
+title: wlcore_alloc_hw
+
 ---
 
 

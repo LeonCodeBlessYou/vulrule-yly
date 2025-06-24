@@ -1,4 +1,6 @@
 ---
+title: typec_partner_register_altmode
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: devm_drm_dev_alloc
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: inv_icm42600_gyro_init
+
 ---
 
 

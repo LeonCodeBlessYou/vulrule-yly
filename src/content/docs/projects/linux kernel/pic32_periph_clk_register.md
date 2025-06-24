@@ -1,4 +1,6 @@
 ---
+title: pic32_periph_clk_register
+
 ---
 
 

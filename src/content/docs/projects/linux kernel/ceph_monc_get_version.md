@@ -1,4 +1,6 @@
 ---
+title: ceph_monc_get_version
+
 ---
 
 

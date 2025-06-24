@@ -1,4 +1,6 @@
 ---
+title: pci_get_device
+
 ---
 
 

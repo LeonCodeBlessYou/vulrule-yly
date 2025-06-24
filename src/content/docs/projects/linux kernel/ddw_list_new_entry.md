@@ -1,4 +1,6 @@
 ---
+title: ddw_list_new_entry
+
 ---
 
 

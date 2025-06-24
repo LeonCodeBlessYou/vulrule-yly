@@ -1,4 +1,6 @@
 ---
+title: isci_get_device
+
 ---
 
 

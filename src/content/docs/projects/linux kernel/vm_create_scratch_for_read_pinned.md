@@ -1,4 +1,6 @@
 ---
+title: vm_create_scratch_for_read_pinned
+
 ---
 
 

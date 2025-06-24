@@ -1,4 +1,6 @@
 ---
+title: iio_hw_consumer_alloc
+
 ---
 
 

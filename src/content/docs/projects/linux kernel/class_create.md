@@ -1,4 +1,6 @@
 ---
+title: class_create
+
 ---
 
 

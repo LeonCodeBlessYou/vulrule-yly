@@ -1,4 +1,6 @@
 ---
+title: vmw_simple_resource_lookup
+
 ---
 
 

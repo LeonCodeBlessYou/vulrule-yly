@@ -1,4 +1,6 @@
 ---
+title: clk_hw_get_clk
+
 ---
 
 

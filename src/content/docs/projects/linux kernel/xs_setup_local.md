@@ -1,4 +1,6 @@
 ---
+title: xs_setup_local
+
 ---
 
 

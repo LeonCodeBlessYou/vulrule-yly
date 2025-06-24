@@ -1,4 +1,6 @@
 ---
+title: sec_pmic_i2c_parse_dt_pdata
+
 ---
 
 

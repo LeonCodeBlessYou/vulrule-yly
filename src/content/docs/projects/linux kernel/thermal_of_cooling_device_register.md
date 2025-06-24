@@ -1,4 +1,6 @@
 ---
+title: thermal_of_cooling_device_register
+
 ---
 
 

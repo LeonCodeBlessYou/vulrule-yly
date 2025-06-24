@@ -1,4 +1,6 @@
 ---
+title: hso_create_device
+
 ---
 
 

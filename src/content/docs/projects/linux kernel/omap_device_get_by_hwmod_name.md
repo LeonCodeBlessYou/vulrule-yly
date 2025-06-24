@@ -1,4 +1,6 @@
 ---
+title: omap_device_get_by_hwmod_name
+
 ---
 
 

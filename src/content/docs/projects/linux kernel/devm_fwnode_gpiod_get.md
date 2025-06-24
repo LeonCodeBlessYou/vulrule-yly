@@ -1,4 +1,6 @@
 ---
+title: devm_fwnode_gpiod_get
+
 ---
 
 

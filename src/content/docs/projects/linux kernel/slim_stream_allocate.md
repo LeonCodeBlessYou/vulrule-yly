@@ -1,4 +1,6 @@
 ---
+title: slim_stream_allocate
+
 ---
 
 

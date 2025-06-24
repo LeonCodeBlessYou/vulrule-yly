@@ -1,4 +1,6 @@
 ---
+title: fscrypt_get_symlink
+
 ---
 
 

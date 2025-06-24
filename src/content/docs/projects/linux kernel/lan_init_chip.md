@@ -1,4 +1,6 @@
 ---
+title: lan_init_chip
+
 ---
 
 

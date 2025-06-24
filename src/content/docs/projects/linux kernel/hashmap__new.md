@@ -1,4 +1,6 @@
 ---
+title: hashmap__new
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: ufs_intel_get_reset_gpio
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: walk_component
+
 ---
 
 

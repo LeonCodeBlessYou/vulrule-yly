@@ -1,4 +1,6 @@
 ---
+title: get_mtd_device_nm
+
 ---
 
 

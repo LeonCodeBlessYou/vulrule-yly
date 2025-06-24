@@ -1,4 +1,6 @@
 ---
+title: mlx4_table_get
+
 ---
 
 

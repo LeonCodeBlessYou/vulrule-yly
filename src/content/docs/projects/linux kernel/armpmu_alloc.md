@@ -1,4 +1,6 @@
 ---
+title: armpmu_alloc
+
 ---
 
 

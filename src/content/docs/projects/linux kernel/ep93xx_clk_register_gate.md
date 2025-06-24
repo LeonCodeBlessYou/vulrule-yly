@@ -1,4 +1,6 @@
 ---
+title: ep93xx_clk_register_gate
+
 ---
 
 

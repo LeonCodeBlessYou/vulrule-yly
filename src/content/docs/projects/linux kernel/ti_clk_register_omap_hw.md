@@ -1,4 +1,6 @@
 ---
+title: ti_clk_register_omap_hw
+
 ---
 
 

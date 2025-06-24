@@ -1,4 +1,6 @@
 ---
+title: qlcnic_alloc_sw_resources
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: ath10k_wmi_10_4_op_gen_init
+
 ---
 
 

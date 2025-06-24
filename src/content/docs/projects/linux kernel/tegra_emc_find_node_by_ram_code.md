@@ -1,4 +1,6 @@
 ---
+title: tegra_emc_find_node_by_ram_code
+
 ---
 
 

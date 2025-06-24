@@ -1,4 +1,6 @@
 ---
+title: intel_gt_setup_lmem
+
 ---
 
 

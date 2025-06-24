@@ -1,4 +1,6 @@
 ---
+title: scsi_bsg_register_queue
+
 ---
 
 

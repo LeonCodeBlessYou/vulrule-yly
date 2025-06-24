@@ -1,4 +1,6 @@
 ---
+title: gsmi_buf_alloc
+
 ---
 
 

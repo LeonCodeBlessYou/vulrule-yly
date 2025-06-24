@@ -1,4 +1,6 @@
 ---
+title: kexec_file_add_components
+
 ---
 
 

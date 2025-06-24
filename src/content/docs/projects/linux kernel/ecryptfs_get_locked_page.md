@@ -1,4 +1,6 @@
 ---
+title: ecryptfs_get_locked_page
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: vc4_vec_connector_init
+
 ---
 
 

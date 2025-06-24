@@ -1,4 +1,6 @@
 ---
+title: pxa2xx_spi_init_pdata
+
 ---
 
 

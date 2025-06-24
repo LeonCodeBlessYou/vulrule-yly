@@ -1,4 +1,6 @@
 ---
+title: devfreq_cooling_register
+
 ---
 
 

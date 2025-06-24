@@ -1,4 +1,6 @@
 ---
+title: lpfc_alloc_bsg_buffers
+
 ---
 
 

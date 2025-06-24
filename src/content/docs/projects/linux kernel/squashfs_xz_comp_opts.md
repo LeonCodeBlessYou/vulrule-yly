@@ -1,4 +1,6 @@
 ---
+title: squashfs_xz_comp_opts
+
 ---
 
 

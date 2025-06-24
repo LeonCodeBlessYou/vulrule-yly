@@ -1,4 +1,6 @@
 ---
+title: cmd_ent_get
+
 ---
 
 

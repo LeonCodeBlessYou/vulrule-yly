@@ -1,4 +1,6 @@
 ---
+title: avcodec_parameters_free
+
 ---
 
 

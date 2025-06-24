@@ -1,4 +1,6 @@
 ---
+title: get_bitmap_from_slot
+
 ---
 
 

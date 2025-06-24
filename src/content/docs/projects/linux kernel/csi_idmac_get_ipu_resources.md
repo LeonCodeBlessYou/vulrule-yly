@@ -1,4 +1,6 @@
 ---
+title: csi_idmac_get_ipu_resources
+
 ---
 
 

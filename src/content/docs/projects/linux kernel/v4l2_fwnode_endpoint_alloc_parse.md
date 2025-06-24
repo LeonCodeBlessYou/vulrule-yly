@@ -1,4 +1,6 @@
 ---
+title: v4l2_fwnode_endpoint_alloc_parse
+
 ---
 
 

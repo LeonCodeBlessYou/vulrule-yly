@@ -1,4 +1,6 @@
 ---
+title: tmc_etr_setup_perf_buf
+
 ---
 
 

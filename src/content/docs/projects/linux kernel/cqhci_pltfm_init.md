@@ -1,4 +1,6 @@
 ---
+title: cqhci_pltfm_init
+
 ---
 
 

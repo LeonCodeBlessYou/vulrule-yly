@@ -1,4 +1,6 @@
 ---
+title: atari_stram_alloc
+
 ---
 
 

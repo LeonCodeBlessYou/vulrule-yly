@@ -1,4 +1,6 @@
 ---
+title: nilfs_new_inode
+
 ---
 
 

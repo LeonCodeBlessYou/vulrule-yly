@@ -1,4 +1,6 @@
 ---
+title: aspeed_gfx_probe
+
 ---
 
 

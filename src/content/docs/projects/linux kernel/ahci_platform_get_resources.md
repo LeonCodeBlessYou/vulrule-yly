@@ -1,4 +1,6 @@
 ---
+title: ahci_platform_get_resources
+
 ---
 
 

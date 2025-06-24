@@ -1,4 +1,6 @@
 ---
+title: deprecated API
+
 ---
 # deprecated API
 

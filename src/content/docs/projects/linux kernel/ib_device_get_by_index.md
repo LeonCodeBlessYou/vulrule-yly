@@ -1,4 +1,6 @@
 ---
+title: ib_device_get_by_index
+
 ---
 
 

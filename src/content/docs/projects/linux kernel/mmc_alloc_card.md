@@ -1,4 +1,6 @@
 ---
+title: mmc_alloc_card
+
 ---
 
 

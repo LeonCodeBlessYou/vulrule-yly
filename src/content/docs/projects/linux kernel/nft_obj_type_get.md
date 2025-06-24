@@ -1,4 +1,6 @@
 ---
+title: nft_obj_type_get
+
 ---
 
 

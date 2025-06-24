@@ -1,4 +1,6 @@
 ---
+title: array_map_alloc
+
 ---
 
 

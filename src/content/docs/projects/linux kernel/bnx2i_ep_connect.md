@@ -1,4 +1,6 @@
 ---
+title: bnx2i_ep_connect
+
 ---
 
 

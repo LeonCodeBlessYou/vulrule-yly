@@ -1,4 +1,6 @@
 ---
+title: qeth_get_adapter_cmd
+
 ---
 
 

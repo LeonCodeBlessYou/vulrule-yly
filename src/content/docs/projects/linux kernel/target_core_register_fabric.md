@@ -1,4 +1,6 @@
 ---
+title: target_core_register_fabric
+
 ---
 
 

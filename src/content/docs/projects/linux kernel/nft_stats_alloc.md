@@ -1,4 +1,6 @@
 ---
+title: nft_stats_alloc
+
 ---
 
 

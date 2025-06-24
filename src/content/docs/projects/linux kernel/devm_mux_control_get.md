@@ -1,4 +1,6 @@
 ---
+title: devm_mux_control_get
+
 ---
 
 

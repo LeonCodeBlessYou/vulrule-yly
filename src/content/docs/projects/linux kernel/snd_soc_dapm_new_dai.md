@@ -1,4 +1,6 @@
 ---
+title: snd_soc_dapm_new_dai
+
 ---
 
 

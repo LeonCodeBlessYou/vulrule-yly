@@ -1,4 +1,6 @@
 ---
+title: davinci_psc_register_clocks
+
 ---
 
 

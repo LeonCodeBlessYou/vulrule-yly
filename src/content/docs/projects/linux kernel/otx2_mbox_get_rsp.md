@@ -1,4 +1,6 @@
 ---
+title: otx2_mbox_get_rsp
+
 ---
 
 

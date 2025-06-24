@@ -1,4 +1,6 @@
 ---
+title: cxl_decoder_alloc
+
 ---
 
 

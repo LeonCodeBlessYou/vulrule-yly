@@ -1,4 +1,6 @@
 ---
+title: huge_gem_object
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: host1x_channel_get
+
 ---
 
 

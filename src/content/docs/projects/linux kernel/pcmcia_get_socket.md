@@ -1,4 +1,6 @@
 ---
+title: pcmcia_get_socket
+
 ---
 
 

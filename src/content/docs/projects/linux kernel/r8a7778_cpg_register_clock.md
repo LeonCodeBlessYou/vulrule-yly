@@ -1,4 +1,6 @@
 ---
+title: r8a7778_cpg_register_clock
+
 ---
 
 

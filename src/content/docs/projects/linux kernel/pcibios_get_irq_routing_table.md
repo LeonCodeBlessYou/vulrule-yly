@@ -1,4 +1,6 @@
 ---
+title: pcibios_get_irq_routing_table
+
 ---
 
 

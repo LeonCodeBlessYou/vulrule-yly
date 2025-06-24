@@ -1,4 +1,6 @@
 ---
+title: wg_noise_keypair_get
+
 ---
 
 

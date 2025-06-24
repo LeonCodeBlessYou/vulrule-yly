@@ -1,4 +1,6 @@
 ---
+title: kexec_image_load_default
+
 ---
 
 

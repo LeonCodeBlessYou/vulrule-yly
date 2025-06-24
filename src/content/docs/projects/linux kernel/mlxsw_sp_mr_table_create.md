@@ -1,4 +1,6 @@
 ---
+title: mlxsw_sp_mr_table_create
+
 ---
 
 

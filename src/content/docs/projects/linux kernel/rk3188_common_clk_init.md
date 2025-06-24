@@ -1,4 +1,6 @@
 ---
+title: rk3188_common_clk_init
+
 ---
 
 

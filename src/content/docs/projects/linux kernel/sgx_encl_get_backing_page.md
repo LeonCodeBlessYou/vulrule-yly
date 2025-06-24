@@ -1,4 +1,6 @@
 ---
+title: sgx_encl_get_backing_page
+
 ---
 
 

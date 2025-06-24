@@ -1,4 +1,6 @@
 ---
+title: devfreq_event_add_edev
+
 ---
 
 

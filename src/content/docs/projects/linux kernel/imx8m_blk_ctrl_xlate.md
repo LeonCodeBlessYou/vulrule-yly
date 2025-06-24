@@ -1,4 +1,6 @@
 ---
+title: imx8m_blk_ctrl_xlate
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: chromeos_laptop_prepare
+
 ---
 
 

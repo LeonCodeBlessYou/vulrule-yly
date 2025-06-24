@@ -1,4 +1,6 @@
 ---
+title: pmbus_find_sensor
+
 ---
 
 

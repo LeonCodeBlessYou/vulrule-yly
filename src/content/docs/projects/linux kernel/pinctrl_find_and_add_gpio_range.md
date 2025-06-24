@@ -1,4 +1,6 @@
 ---
+title: pinctrl_find_and_add_gpio_range
+
 ---
 
 

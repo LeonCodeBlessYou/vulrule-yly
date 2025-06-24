@@ -1,4 +1,6 @@
 ---
+title: ec_get_log_entry
+
 ---
 
 

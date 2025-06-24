@@ -1,4 +1,6 @@
 ---
+title: xfs_fs_get_parent
+
 ---
 
 

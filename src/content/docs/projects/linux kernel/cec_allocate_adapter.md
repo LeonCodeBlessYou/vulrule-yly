@@ -1,4 +1,6 @@
 ---
+title: cec_allocate_adapter
+
 ---
 
 

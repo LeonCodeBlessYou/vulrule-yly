@@ -1,4 +1,6 @@
 ---
+title: brcmf_cfg80211_get_ops
+
 ---
 
 

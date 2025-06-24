@@ -1,4 +1,6 @@
 ---
+title: kernel_get_module_map
+
 ---
 
 

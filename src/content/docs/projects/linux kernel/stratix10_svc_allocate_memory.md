@@ -1,4 +1,6 @@
 ---
+title: stratix10_svc_allocate_memory
+
 ---
 
 

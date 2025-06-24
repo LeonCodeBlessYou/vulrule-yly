@@ -1,4 +1,6 @@
 ---
+title: s3c24xx_dma_get_txd
+
 ---
 
 

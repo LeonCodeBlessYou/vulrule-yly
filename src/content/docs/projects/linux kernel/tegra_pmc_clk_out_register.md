@@ -1,4 +1,6 @@
 ---
+title: tegra_pmc_clk_out_register
+
 ---
 
 

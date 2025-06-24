@@ -1,4 +1,6 @@
 ---
+title: rt2x00soc_alloc_reg
+
 ---
 
 

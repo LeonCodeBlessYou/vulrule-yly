@@ -1,4 +1,6 @@
 ---
+title: parse_hist_trigger_attrs
+
 ---
 
 

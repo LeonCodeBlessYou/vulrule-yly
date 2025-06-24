@@ -1,4 +1,6 @@
 ---
+title: get_cxl_adapter
+
 ---
 
 

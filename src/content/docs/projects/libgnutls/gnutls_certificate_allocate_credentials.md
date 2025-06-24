@@ -1,4 +1,6 @@
 ---
+title: gnutls_certificate_allocate_credentials
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: cdns_mhdp_get_edid
+
 ---
 
 

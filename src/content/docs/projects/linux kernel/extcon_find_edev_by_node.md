@@ -1,4 +1,6 @@
 ---
+title: extcon_find_edev_by_node
+
 ---
 
 

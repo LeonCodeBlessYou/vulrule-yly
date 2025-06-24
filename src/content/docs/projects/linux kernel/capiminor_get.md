@@ -1,4 +1,6 @@
 ---
+title: capiminor_get
+
 ---
 
 

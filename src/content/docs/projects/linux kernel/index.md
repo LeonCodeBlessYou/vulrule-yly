@@ -1,4 +1,6 @@
 ---
+title: linux kernel Rules
+
 ---
 
 

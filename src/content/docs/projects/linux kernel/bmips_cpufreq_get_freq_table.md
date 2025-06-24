@@ -1,4 +1,6 @@
 ---
+title: bmips_cpufreq_get_freq_table
+
 ---
 
 

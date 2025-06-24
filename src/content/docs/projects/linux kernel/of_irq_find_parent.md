@@ -1,4 +1,6 @@
 ---
+title: of_irq_find_parent
+
 ---
 
 

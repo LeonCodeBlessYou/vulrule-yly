@@ -1,4 +1,6 @@
 ---
+title: acpi_ec_alloc
+
 ---
 
 

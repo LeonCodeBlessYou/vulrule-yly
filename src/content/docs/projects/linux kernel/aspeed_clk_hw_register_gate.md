@@ -1,4 +1,6 @@
 ---
+title: aspeed_clk_hw_register_gate
+
 ---
 
 

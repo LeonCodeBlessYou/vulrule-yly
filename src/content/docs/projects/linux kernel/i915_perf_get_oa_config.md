@@ -1,4 +1,6 @@
 ---
+title: i915_perf_get_oa_config
+
 ---
 
 

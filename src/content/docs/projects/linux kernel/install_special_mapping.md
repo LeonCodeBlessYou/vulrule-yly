@@ -1,4 +1,6 @@
 ---
+title: install_special_mapping
+
 ---
 
 

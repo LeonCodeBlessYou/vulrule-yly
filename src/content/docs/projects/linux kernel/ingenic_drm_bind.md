@@ -1,4 +1,6 @@
 ---
+title: ingenic_drm_bind
+
 ---
 
 

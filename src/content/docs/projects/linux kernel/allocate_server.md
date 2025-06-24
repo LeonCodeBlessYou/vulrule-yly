@@ -1,4 +1,6 @@
 ---
+title: allocate_server
+
 ---
 
 

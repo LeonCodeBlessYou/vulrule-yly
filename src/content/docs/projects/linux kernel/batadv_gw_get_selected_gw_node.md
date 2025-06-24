@@ -1,4 +1,6 @@
 ---
+title: batadv_gw_get_selected_gw_node
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: gsc_hwmon_get_devtree_pdata
+
 ---
 
 

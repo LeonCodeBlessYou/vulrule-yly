@@ -1,4 +1,6 @@
 ---
+title: psb_intel_sdvo_get_edid
+
 ---
 
 

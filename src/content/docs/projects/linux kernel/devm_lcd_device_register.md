@@ -1,4 +1,6 @@
 ---
+title: devm_lcd_device_register
+
 ---
 
 

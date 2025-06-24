@@ -1,4 +1,6 @@
 ---
+title: cxl_memdev_alloc
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: fake_dma_object
+
 ---
 
 

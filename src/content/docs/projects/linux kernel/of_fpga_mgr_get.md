@@ -1,4 +1,6 @@
 ---
+title: of_fpga_mgr_get
+
 ---
 
 

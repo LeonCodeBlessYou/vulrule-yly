@@ -1,4 +1,6 @@
 ---
+title: hci_cmd_sync_ev
+
 ---
 
 

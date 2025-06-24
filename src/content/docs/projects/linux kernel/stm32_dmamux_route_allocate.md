@@ -1,4 +1,6 @@
 ---
+title: stm32_dmamux_route_allocate
+
 ---
 
 

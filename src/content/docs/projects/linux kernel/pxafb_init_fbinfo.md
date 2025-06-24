@@ -1,4 +1,6 @@
 ---
+title: pxafb_init_fbinfo
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: hbcall_from_type
+
 ---
 
 

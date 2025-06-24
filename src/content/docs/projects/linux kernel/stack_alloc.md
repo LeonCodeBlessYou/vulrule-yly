@@ -1,4 +1,6 @@
 ---
+title: stack_alloc
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: devfreq_get_devfreq_by_phandle
+
 ---
 
 

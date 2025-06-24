@@ -1,4 +1,6 @@
 ---
+title: s3c24xx_init_intc
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: stuser_create
+
 ---
 
 

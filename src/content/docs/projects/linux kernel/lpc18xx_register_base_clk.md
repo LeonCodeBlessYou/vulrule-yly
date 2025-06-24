@@ -1,4 +1,6 @@
 ---
+title: lpc18xx_register_base_clk
+
 ---
 
 

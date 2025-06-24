@@ -1,4 +1,6 @@
 ---
+title: ti_am335x_xbar_route_allocate
+
 ---
 
 

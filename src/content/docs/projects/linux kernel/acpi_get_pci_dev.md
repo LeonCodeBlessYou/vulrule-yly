@@ -1,4 +1,6 @@
 ---
+title: acpi_get_pci_dev
+
 ---
 
 

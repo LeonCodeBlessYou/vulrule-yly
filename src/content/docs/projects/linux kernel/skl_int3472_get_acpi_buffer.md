@@ -1,4 +1,6 @@
 ---
+title: skl_int3472_get_acpi_buffer
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: meson_smp_get_core_reset
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: acpi_alloc_fwnode_static
+
 ---
 
 

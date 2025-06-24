@@ -1,4 +1,6 @@
 ---
+title: xfs_efi_init
+
 ---
 
 

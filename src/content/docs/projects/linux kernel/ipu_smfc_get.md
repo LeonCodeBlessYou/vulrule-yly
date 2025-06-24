@@ -1,4 +1,6 @@
 ---
+title: ipu_smfc_get
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: ionic_bus_alloc_irq_vectors
+
 ---
 
 

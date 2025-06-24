@@ -1,4 +1,6 @@
 ---
+title: otx2_get_fwdata
+
 ---
 
 

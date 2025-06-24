@@ -1,4 +1,6 @@
 ---
+title: of_find_regulator_gpio
+
 ---
 
 

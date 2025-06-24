@@ -1,4 +1,6 @@
 ---
+title: ti_bandgap_get_sensor_data
+
 ---
 
 

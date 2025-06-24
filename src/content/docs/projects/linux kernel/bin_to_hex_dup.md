@@ -1,4 +1,6 @@
 ---
+title: bin_to_hex_dup
+
 ---
 
 

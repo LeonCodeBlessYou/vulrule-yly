@@ -1,4 +1,6 @@
 ---
+title: mysql_store_result
+
 ---
 
 

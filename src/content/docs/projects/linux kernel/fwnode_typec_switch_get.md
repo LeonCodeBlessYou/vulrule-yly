@@ -1,4 +1,6 @@
 ---
+title: fwnode_typec_switch_get
+
 ---
 
 

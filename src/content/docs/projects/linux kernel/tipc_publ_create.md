@@ -1,4 +1,6 @@
 ---
+title: tipc_publ_create
+
 ---
 
 

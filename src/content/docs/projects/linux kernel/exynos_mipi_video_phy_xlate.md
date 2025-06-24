@@ -1,4 +1,6 @@
 ---
+title: exynos_mipi_video_phy_xlate
+
 ---
 
 

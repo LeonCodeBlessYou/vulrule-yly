@@ -1,4 +1,6 @@
 ---
+title: devm_tegra_memory_controller_get
+
 ---
 
 

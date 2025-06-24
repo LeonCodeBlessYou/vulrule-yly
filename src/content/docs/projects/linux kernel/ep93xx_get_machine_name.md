@@ -1,4 +1,6 @@
 ---
+title: ep93xx_get_machine_name
+
 ---
 
 

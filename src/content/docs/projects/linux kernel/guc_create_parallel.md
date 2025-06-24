@@ -1,4 +1,6 @@
 ---
+title: guc_create_parallel
+
 ---
 
 

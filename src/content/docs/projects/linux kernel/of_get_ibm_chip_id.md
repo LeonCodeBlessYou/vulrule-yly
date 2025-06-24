@@ -1,4 +1,6 @@
 ---
+title: of_get_ibm_chip_id
+
 ---
 
 

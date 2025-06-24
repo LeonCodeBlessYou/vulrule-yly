@@ -1,4 +1,6 @@
 ---
+title: dpu_hw_catalog_init
+
 ---
 
 

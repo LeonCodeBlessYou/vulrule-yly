@@ -1,4 +1,6 @@
 ---
+title: devm_clk_hw_get_clk
+
 ---
 
 

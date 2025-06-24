@@ -1,4 +1,6 @@
 ---
+title: mount_one_hugetlbfs
+
 ---
 
 

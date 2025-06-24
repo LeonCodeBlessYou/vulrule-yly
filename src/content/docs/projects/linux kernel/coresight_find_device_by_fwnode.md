@@ -1,4 +1,6 @@
 ---
+title: coresight_find_device_by_fwnode
+
 ---
 
 

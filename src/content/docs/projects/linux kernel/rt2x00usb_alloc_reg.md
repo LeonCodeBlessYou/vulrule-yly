@@ -1,4 +1,6 @@
 ---
+title: rt2x00usb_alloc_reg
+
 ---
 
 

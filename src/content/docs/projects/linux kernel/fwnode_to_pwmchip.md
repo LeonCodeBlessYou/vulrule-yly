@@ -1,4 +1,6 @@
 ---
+title: fwnode_to_pwmchip
+
 ---
 
 

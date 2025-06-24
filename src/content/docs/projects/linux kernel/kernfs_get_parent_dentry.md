@@ -1,4 +1,6 @@
 ---
+title: kernfs_get_parent_dentry
+
 ---
 
 

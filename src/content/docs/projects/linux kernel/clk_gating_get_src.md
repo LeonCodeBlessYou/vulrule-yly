@@ -1,4 +1,6 @@
 ---
+title: clk_gating_get_src
+
 ---
 
 

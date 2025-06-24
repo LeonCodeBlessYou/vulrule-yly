@@ -1,4 +1,6 @@
 ---
+title: hinic_alloc_cmdq_buf
+
 ---
 
 

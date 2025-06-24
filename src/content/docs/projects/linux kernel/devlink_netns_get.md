@@ -1,4 +1,6 @@
 ---
+title: devlink_netns_get
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: GPTAid Generated Rules
+
 ---
 
 

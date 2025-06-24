@@ -1,4 +1,6 @@
 ---
+title: nubus_get_functional_resource
+
 ---
 
 

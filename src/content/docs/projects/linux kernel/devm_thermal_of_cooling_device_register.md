@@ -1,4 +1,6 @@
 ---
+title: devm_thermal_of_cooling_device_register
+
 ---
 
 

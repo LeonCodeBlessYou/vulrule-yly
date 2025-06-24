@@ -1,4 +1,6 @@
 ---
+title: ti_sci_inta_alloc_parent_irq
+
 ---
 
 

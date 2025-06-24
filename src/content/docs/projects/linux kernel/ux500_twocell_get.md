@@ -1,4 +1,6 @@
 ---
+title: ux500_twocell_get
+
 ---
 
 

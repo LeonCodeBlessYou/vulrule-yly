@@ -1,4 +1,6 @@
 ---
+title: mdp5_crtc_get_mixer
+
 ---
 
 

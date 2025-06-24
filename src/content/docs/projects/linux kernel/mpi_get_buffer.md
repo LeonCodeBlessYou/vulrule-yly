@@ -1,4 +1,6 @@
 ---
+title: mpi_get_buffer
+
 ---
 
 

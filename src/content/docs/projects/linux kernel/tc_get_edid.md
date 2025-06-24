@@ -1,4 +1,6 @@
 ---
+title: tc_get_edid
+
 ---
 
 

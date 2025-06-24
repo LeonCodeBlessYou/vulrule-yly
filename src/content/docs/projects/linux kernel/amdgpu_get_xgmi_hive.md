@@ -1,4 +1,6 @@
 ---
+title: amdgpu_get_xgmi_hive
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: of_path_to_platform_device
+
 ---
 
 

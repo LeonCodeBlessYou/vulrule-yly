@@ -1,4 +1,6 @@
 ---
+title: nfc_hci_allocate_device
+
 ---
 
 

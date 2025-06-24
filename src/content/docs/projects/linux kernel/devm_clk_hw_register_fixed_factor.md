@@ -1,4 +1,6 @@
 ---
+title: devm_clk_hw_register_fixed_factor
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: r8a7740_cpg_register_clock
+
 ---
 
 

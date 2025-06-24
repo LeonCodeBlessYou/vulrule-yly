@@ -1,4 +1,6 @@
 ---
+title: snd_soc_alloc_ac97_component
+
 ---
 
 

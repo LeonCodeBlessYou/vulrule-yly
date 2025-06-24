@@ -1,4 +1,6 @@
 ---
+title: iwl_uefi_reduce_power_parse
+
 ---
 
 

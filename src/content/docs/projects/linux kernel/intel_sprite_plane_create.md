@@ -1,4 +1,6 @@
 ---
+title: intel_sprite_plane_create
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: comedi_buf_alloc
+
 ---
 
 

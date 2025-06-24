@@ -1,4 +1,6 @@
 ---
+title: cros_ec_cec_find_hdmi_dev
+
 ---
 
 

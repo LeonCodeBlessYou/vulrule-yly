@@ -1,4 +1,6 @@
 ---
+title: dm_parse_device_entry
+
 ---
 
 

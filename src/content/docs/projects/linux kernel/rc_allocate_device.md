@@ -1,4 +1,6 @@
 ---
+title: rc_allocate_device
+
 ---
 
 

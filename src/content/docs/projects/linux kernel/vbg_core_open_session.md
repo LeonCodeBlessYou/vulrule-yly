@@ -1,4 +1,6 @@
 ---
+title: vbg_core_open_session
+
 ---
 
 

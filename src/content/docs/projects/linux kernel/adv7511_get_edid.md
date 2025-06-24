@@ -1,4 +1,6 @@
 ---
+title: adv7511_get_edid
+
 ---
 
 

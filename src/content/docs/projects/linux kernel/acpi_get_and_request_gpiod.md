@@ -1,4 +1,6 @@
 ---
+title: acpi_get_and_request_gpiod
+
 ---
 
 

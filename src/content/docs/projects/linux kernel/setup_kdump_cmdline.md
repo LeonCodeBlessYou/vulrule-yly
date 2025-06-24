@@ -1,4 +1,6 @@
 ---
+title: setup_kdump_cmdline
+
 ---
 
 

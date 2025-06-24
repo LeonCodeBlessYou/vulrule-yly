@@ -1,4 +1,6 @@
 ---
+title: ceph_pool_perm_get
+
 ---
 
 

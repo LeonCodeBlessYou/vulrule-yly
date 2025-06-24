@@ -1,4 +1,6 @@
 ---
+title: acpihid_device_group
+
 ---
 
 

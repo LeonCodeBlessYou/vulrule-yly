@@ -1,4 +1,6 @@
 ---
+title: slim_get_device
+
 ---
 
 

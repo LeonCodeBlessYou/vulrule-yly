@@ -1,4 +1,6 @@
 ---
+title: extcon_get_edev_by_phandle
+
 ---
 
 

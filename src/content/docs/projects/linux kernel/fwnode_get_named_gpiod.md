@@ -1,4 +1,6 @@
 ---
+title: fwnode_get_named_gpiod
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: acpi_ipmi_msg_get
+
 ---
 
 

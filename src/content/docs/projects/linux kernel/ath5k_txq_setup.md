@@ -1,4 +1,6 @@
 ---
+title: ath5k_txq_setup
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: amdgpu_display_user_framebuffer_create
+
 ---
 
 

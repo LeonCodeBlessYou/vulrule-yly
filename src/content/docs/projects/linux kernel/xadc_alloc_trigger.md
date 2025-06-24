@@ -1,4 +1,6 @@
 ---
+title: xadc_alloc_trigger
+
 ---
 
 

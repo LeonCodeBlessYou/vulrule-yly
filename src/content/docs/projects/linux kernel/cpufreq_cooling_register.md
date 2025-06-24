@@ -1,4 +1,6 @@
 ---
+title: cpufreq_cooling_register
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: omapdss_device_get
+
 ---
 
 

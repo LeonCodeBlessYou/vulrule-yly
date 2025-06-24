@@ -1,4 +1,6 @@
 ---
+title: fw_device_get
+
 ---
 
 

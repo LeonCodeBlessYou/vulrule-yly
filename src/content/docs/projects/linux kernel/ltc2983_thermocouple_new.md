@@ -1,4 +1,6 @@
 ---
+title: ltc2983_thermocouple_new
+
 ---
 
 

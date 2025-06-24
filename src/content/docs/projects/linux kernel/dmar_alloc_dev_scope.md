@@ -1,4 +1,6 @@
 ---
+title: dmar_alloc_dev_scope
+
 ---
 
 

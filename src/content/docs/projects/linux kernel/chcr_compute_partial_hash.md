@@ -1,4 +1,6 @@
 ---
+title: chcr_compute_partial_hash
+
 ---
 
 

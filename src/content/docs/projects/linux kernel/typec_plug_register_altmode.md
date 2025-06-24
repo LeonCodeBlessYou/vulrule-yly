@@ -1,4 +1,6 @@
 ---
+title: typec_plug_register_altmode
+
 ---
 
 

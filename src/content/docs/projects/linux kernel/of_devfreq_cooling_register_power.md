@@ -1,4 +1,6 @@
 ---
+title: of_devfreq_cooling_register_power
+
 ---
 
 

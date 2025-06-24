@@ -1,4 +1,6 @@
 ---
+title: of_mipi_dsi_device_add
+
 ---
 
 

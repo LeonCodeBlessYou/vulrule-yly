@@ -1,4 +1,6 @@
 ---
+title: kmem_cache_alloc_bulk
+
 ---
 
 

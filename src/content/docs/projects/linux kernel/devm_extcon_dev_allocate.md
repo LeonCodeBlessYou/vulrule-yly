@@ -1,4 +1,6 @@
 ---
+title: devm_extcon_dev_allocate
+
 ---
 
 

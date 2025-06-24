@@ -1,4 +1,6 @@
 ---
+title: int340x_thermal_zone_add
+
 ---
 
 

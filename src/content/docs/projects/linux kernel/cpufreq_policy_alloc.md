@@ -1,4 +1,6 @@
 ---
+title: cpufreq_policy_alloc
+
 ---
 
 

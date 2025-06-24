@@ -1,4 +1,6 @@
 ---
+title: cros_ec_pwm_xlate
+
 ---
 
 

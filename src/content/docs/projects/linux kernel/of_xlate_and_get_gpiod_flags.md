@@ -1,4 +1,6 @@
 ---
+title: of_xlate_and_get_gpiod_flags
+
 ---
 
 

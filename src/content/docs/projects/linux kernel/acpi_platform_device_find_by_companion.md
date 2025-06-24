@@ -1,4 +1,6 @@
 ---
+title: acpi_platform_device_find_by_companion
+
 ---
 
 

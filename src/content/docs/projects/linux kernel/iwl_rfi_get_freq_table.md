@@ -1,4 +1,6 @@
 ---
+title: iwl_rfi_get_freq_table
+
 ---
 
 

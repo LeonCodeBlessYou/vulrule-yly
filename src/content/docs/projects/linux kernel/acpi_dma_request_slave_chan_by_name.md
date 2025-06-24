@@ -1,4 +1,6 @@
 ---
+title: acpi_dma_request_slave_chan_by_name
+
 ---
 
 

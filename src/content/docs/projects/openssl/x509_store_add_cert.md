@@ -1,4 +1,6 @@
 ---
+title: x509_store_add_cert
+
 ---
 
 

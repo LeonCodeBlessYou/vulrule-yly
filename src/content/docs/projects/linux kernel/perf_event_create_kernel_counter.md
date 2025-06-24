@@ -1,4 +1,6 @@
 ---
+title: perf_event_create_kernel_counter
+
 ---
 
 

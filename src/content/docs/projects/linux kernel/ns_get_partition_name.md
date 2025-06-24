@@ -1,4 +1,6 @@
 ---
+title: ns_get_partition_name
+
 ---
 
 

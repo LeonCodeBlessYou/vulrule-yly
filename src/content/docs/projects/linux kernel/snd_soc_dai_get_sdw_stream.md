@@ -1,4 +1,6 @@
 ---
+title: snd_soc_dai_get_sdw_stream
+
 ---
 
 

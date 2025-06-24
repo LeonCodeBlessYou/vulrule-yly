@@ -1,4 +1,6 @@
 ---
+title: intel_th_device_alloc
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: sh73a0_cpg_register_clock
+
 ---
 
 

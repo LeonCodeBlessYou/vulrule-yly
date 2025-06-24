@@ -1,4 +1,6 @@
 ---
+title: AURC Generated Rules
+
 ---
 
 

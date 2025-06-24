@@ -1,4 +1,6 @@
 ---
+title: stm32_register_aux_clk
+
 ---
 
 

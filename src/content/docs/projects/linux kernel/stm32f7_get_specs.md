@@ -1,4 +1,6 @@
 ---
+title: stm32f7_get_specs
+
 ---
 
 

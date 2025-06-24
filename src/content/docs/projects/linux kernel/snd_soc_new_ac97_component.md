@@ -1,4 +1,6 @@
 ---
+title: snd_soc_new_ac97_component
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: gpiochip_request_own_desc
+
 ---
 
 

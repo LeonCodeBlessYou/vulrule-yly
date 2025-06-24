@@ -1,4 +1,6 @@
 ---
+title: i915_buddy_alloc
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: f2fs_init_inode_metadata
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: spi_nor_get_flash_info
+
 ---
 
 

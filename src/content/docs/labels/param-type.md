@@ -1,4 +1,6 @@
 ---
+title: param-type
+
 ---
 # param-type
 

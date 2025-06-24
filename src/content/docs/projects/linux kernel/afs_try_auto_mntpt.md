@@ -1,4 +1,6 @@
 ---
+title: afs_try_auto_mntpt
+
 ---
 
 

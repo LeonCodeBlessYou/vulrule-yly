@@ -1,4 +1,6 @@
 ---
+title: fsl_mc_msi_domain_alloc_irqs
+
 ---
 
 

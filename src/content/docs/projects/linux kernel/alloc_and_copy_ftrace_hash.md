@@ -1,4 +1,6 @@
 ---
+title: alloc_and_copy_ftrace_hash
+
 ---
 
 

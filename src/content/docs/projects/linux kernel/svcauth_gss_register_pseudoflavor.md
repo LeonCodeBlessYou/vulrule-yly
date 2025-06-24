@@ -1,4 +1,6 @@
 ---
+title: svcauth_gss_register_pseudoflavor
+
 ---
 
 

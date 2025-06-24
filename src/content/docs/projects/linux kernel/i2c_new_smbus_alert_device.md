@@ -1,4 +1,6 @@
 ---
+title: i2c_new_smbus_alert_device
+
 ---
 
 

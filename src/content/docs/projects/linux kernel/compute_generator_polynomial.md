@@ -1,4 +1,6 @@
 ---
+title: compute_generator_polynomial
+
 ---
 
 

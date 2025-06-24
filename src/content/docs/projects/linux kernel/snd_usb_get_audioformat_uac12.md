@@ -1,4 +1,6 @@
 ---
+title: snd_usb_get_audioformat_uac12
+
 ---
 
 

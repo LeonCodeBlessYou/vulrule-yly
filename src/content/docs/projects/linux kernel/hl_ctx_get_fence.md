@@ -1,4 +1,6 @@
 ---
+title: hl_ctx_get_fence
+
 ---
 
 

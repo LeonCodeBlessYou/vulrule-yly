@@ -1,4 +1,6 @@
 ---
+title: hidpp_get_device_name
+
 ---
 
 

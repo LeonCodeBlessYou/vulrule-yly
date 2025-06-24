@@ -1,4 +1,6 @@
 ---
+title: brcmf_fw_nvram_from_efi
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: devm_power_supply_register
+
 ---
 
 

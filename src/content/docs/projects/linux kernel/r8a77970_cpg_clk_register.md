@@ -1,4 +1,6 @@
 ---
+title: r8a77970_cpg_clk_register
+
 ---
 
 

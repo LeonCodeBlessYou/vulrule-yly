@@ -1,4 +1,6 @@
 ---
+title: bm_init
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: acpi_dev_get_first_match_dev
+
 ---
 
 

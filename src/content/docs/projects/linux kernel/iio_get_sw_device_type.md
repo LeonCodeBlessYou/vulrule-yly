@@ -1,4 +1,6 @@
 ---
+title: iio_get_sw_device_type
+
 ---
 
 

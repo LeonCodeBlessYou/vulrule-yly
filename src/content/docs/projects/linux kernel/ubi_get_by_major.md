@@ -1,4 +1,6 @@
 ---
+title: ubi_get_by_major
+
 ---
 
 

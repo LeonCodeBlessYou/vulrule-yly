@@ -1,4 +1,6 @@
 ---
+title: drm_dp_aux_dev_get_by_minor
+
 ---
 
 

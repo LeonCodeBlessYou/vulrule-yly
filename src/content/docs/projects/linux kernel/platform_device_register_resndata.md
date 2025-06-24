@@ -1,4 +1,6 @@
 ---
+title: platform_device_register_resndata
+
 ---
 
 

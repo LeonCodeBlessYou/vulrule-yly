@@ -1,4 +1,6 @@
 ---
+title: cpufreq_cpu_get
+
 ---
 
 

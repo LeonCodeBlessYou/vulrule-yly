@@ -1,4 +1,6 @@
 ---
+title: dup_sg_table
+
 ---
 
 

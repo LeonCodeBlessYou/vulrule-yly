@@ -1,4 +1,6 @@
 ---
+title: bsg_register_queue
+
 ---
 
 

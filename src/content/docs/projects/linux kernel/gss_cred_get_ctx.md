@@ -1,4 +1,6 @@
 ---
+title: gss_cred_get_ctx
+
 ---
 
 

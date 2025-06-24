@@ -1,4 +1,6 @@
 ---
+title: devm_fwnode_get_index_gpiod_from_child
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: cdebbuf_alloc
+
 ---
 
 

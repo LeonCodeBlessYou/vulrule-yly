@@ -1,4 +1,6 @@
 ---
+title: power_supply_register
+
 ---
 
 

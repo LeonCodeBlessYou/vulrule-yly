@@ -1,4 +1,6 @@
 ---
+title: efi_get_device_by_path
+
 ---
 
 

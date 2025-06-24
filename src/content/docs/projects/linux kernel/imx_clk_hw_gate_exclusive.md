@@ -1,4 +1,6 @@
 ---
+title: imx_clk_hw_gate_exclusive
+
 ---
 
 

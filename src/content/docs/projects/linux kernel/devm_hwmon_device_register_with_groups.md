@@ -1,4 +1,6 @@
 ---
+title: devm_hwmon_device_register_with_groups
+
 ---
 
 

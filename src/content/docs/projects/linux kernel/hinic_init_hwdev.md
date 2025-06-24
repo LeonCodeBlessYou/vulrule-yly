@@ -1,4 +1,6 @@
 ---
+title: hinic_init_hwdev
+
 ---
 
 

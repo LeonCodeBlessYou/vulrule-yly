@@ -1,4 +1,6 @@
 ---
+title: lbs_add_card
+
 ---
 
 

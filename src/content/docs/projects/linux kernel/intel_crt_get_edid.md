@@ -1,4 +1,6 @@
 ---
+title: intel_crt_get_edid
+
 ---
 
 

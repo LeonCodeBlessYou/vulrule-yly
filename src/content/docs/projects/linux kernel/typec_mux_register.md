@@ -1,4 +1,6 @@
 ---
+title: typec_mux_register
+
 ---
 
 

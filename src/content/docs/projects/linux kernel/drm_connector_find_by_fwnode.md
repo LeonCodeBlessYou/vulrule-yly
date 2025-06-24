@@ -1,4 +1,6 @@
 ---
+title: drm_connector_find_by_fwnode
+
 ---
 
 

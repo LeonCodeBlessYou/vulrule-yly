@@ -1,4 +1,6 @@
 ---
+title: safe_name
+
 ---
 
 

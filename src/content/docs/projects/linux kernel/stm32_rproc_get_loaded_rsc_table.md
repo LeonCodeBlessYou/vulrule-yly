@@ -1,4 +1,6 @@
 ---
+title: stm32_rproc_get_loaded_rsc_table
+
 ---
 
 

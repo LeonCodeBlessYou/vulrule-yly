@@ -1,4 +1,6 @@
 ---
+title: type_get_ex_new_index
+
 ---
 
 

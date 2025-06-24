@@ -1,4 +1,6 @@
 ---
+title: ath10k_wmi_10_4_gen_update_fw_tdls_state
+
 ---
 
 

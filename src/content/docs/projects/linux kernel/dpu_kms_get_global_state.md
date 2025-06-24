@@ -1,4 +1,6 @@
 ---
+title: dpu_kms_get_global_state
+
 ---
 
 

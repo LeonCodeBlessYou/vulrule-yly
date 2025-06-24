@@ -1,4 +1,6 @@
 ---
+title: idal_buffer_alloc
+
 ---
 
 

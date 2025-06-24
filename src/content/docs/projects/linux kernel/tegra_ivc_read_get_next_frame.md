@@ -1,4 +1,6 @@
 ---
+title: tegra_ivc_read_get_next_frame
+
 ---
 
 

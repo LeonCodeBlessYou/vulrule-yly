@@ -1,4 +1,6 @@
 ---
+title: ath10k_wmi_10_1_op_gen_peer_assoc
+
 ---
 
 

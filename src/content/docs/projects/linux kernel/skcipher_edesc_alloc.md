@@ -1,4 +1,6 @@
 ---
+title: skcipher_edesc_alloc
+
 ---
 
 

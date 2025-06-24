@@ -1,4 +1,6 @@
 ---
+title: aic_common_of_init
+
 ---
 
 

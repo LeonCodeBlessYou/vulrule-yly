@@ -1,4 +1,6 @@
 ---
+title: arm_lpae_alloc_pgtable
+
 ---
 
 

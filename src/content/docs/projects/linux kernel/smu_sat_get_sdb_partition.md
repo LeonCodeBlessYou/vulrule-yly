@@ -1,4 +1,6 @@
 ---
+title: smu_sat_get_sdb_partition
+
 ---
 
 

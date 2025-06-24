@@ -1,4 +1,6 @@
 ---
+title: bnxt_qplib_alloc_res
+
 ---
 
 

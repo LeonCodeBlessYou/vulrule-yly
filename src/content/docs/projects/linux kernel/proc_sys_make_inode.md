@@ -1,4 +1,6 @@
 ---
+title: proc_sys_make_inode
+
 ---
 
 

@@ -1,4 +1,6 @@
 ---
+title: cec_pin_allocate_adapter
+
 ---
 
 

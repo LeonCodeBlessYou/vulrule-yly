@@ -1,4 +1,6 @@
 ---
+title: acpi_processor_alloc_pdc
+
 ---
 
 

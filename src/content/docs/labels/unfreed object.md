@@ -1,4 +1,6 @@
 ---
+title: unfreed object
+
 ---
 # unfreed object
 

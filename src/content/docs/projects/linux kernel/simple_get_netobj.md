@@ -1,4 +1,6 @@
 ---
+title: simple_get_netobj
+
 ---
 
 

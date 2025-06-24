@@ -1,4 +1,6 @@
 ---
+title: perf_buffer__open_cpu_buf
+
 ---
 
 

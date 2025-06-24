@@ -1,4 +1,6 @@
 ---
+title: create_sniffer_rule
+
 ---
 
 

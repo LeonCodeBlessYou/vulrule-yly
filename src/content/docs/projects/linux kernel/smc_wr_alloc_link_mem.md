@@ -1,4 +1,6 @@
 ---
+title: smc_wr_alloc_link_mem
+
 ---
 
 

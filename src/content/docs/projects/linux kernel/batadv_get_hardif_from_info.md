@@ -1,4 +1,6 @@
 ---
+title: batadv_get_hardif_from_info
+
 ---
 
 

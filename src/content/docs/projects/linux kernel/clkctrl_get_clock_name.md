@@ -1,4 +1,6 @@
 ---
+title: clkctrl_get_clock_name
+
 ---
 
 

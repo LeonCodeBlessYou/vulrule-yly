@@ -1,4 +1,6 @@
 ---
+title: orangefs_new_inode
+
 ---
 
 

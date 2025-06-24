@@ -1,4 +1,6 @@
 ---
+title: ncr_700_detect
+
 ---
 
 

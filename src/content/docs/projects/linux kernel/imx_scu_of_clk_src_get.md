@@ -1,4 +1,6 @@
 ---
+title: imx_scu_of_clk_src_get
+
 ---
 
 

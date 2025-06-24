@@ -1,4 +1,6 @@
 ---
+title: rpmsg_find_device
+
 ---
 
 

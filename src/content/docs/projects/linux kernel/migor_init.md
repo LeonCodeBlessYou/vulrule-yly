@@ -1,4 +1,6 @@
 ---
+title: migor_init
+
 ---
 
 

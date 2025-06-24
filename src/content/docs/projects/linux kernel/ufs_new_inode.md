@@ -1,4 +1,6 @@
 ---
+title: ufs_new_inode
+
 ---
 
 
