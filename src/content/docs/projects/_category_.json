@@ -1,0 +1,9 @@
+{
+    "position": 2,
+    "label": "Projects",
+    "link": {
+        "type": "generated-index",
+        "title": "Projects",
+        "description": "View the rules by projects."
+    }
+}

@@ -1,0 +1,53 @@
+---
+---
+
+
+## API Overview
+**mhi_alloc_controller** is an API in **Linux kernel**. This rule belongs to the **api pair** type. This rule is generated using [APISpecGen](../../tools/APISpecGen).
+## Rule Description
+
+:::tip
+
+The resource acquired by mhi_alloc_controller must be properly released using mhi_free_controller
+
+:::
+
+:::info
+
+- Tags: **api pair**
+- Parameter Index: **N/A**
+- CWE Type: **CWE-404**
+
+:::
+
+## Rule Code
+```python
+
+    import cpp
+import semmle.code.cpp.dataflow.new.DataFlow
+
+
+DataFlow::Node getSource(FunctionCall fc){
+  fc.getTarget().hasName("mhi_alloc_controller")
+  and result.asExpr() = fc
+}
+
+DataFlow::Node getSink(FunctionCall fc){
+  fc.getTarget().hasName("mhi_free_controller")
+  and result.asExpr() = fc.getArgument(0)
+}
+
+FunctionCall freeTarget(FunctionCall malloc){
+  DataFlow::localFlow(getSource(malloc), getSink(result))
+}
+
+from FunctionCall fc
+where fc.getTarget().hasName("mhi_alloc_controller")
+      and not exists(
+        FunctionCall free| 
+        free = freeTarget(fc)
+      )
+select fc.getLocation()
+
+    
+```
