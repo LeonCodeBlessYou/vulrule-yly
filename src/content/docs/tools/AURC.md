@@ -1,5 +1,5 @@
 ---
-title: AURC
+title: AURC Generated Rules
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: GPTAid
+title: GPTAid Generated Rules
 
 ---
 

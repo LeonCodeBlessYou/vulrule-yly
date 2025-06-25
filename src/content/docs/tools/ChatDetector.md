@@ -1,5 +1,5 @@
 ---
-title: ChatDetector
+title: ChatDetector Generated Rules
 
 ---
 

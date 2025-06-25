@@ -1,65 +1,78 @@
+// generate-sidebar.cjs
 const fs = require('fs');
 const path = require('path');
 
-const DOCS_DIR = path.resolve('src/content/docs');
-const OUTPUT_FILE = path.resolve('sidebar.generated.ts');
+const docsRoot = path.join(__dirname, 'src/content/docs');
+const outputFile = path.join(__dirname, 'sidebar.generated.ts');
 
-function getAllMarkdownFiles(dirPath) {
-  let results = [];
-  const files = fs.readdirSync(dirPath);
+// 替换空格为短横线的 slugify 函数
+function slugify(str) {
+  return str.replace(/\s+/g, '-').toLowerCase();
+}
 
-  files.forEach((file) => {
-    const fullPath = path.join(dirPath, file);
-    const stat = fs.statSync(fullPath);
+// 构建 sidebar 节点（递归目录结构）
+function buildSidebar(dirPath, baseUrl = '') {
+  const entries = fs.readdirSync(dirPath, { withFileTypes: true });
+  const items = [];
 
-    if (stat.isDirectory()) {
-      results = results.concat(getAllMarkdownFiles(fullPath));
-    } else if (file.endsWith('.md') || file.endsWith('.mdx')) {
-      results.push(fullPath);
+  for (const entry of entries) {
+    const fullPath = path.join(dirPath, entry.name);
+    const nameWithoutExt = entry.name.replace(/\.md$/, '');
+    const slugLabel = nameWithoutExt;
+    const slugLink = slugify(nameWithoutExt);
+
+    if (entry.isDirectory()) {
+      const subItems = buildSidebar(fullPath, `${baseUrl}/${slugify(entry.name)}`);
+      if (subItems.length > 0) {
+        items.push({
+          label: entry.name,
+          items: subItems,
+        });
+      }
+    } else if (entry.isFile() && entry.name.endsWith('.md')) {
+      const isIndex = nameWithoutExt.toLowerCase() === 'index';
+      items.push({
+        label: slugLabel,
+        link: isIndex ? baseUrl || '/' : `${baseUrl}/${slugLink}`,
+      });
     }
-  });
-
-  return results;
-}
-
-function formatLink(filePath) {
-  const relative = path.relative(DOCS_DIR, filePath).replace(/\\/g, '/');
-  return '/' + relative.replace(/\.mdx?$/, '');
-}
-
-function formatLabel(filePath) {
-  const base = path.basename(filePath, path.extname(filePath));
-  return base.replace(/[-_]/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase());
-}
-
-const files = getAllMarkdownFiles(DOCS_DIR);
-
-const groups = {};
-
-for (const file of files) {
-  const relative = path.relative(DOCS_DIR, file);
-  const parts = relative.split(path.sep);
-  const group = parts.length > 1 ? parts[0] : 'Root';
-  if (!groups[group]) groups[group] = [];
-
-  groups[group].push({
-    label: formatLabel(file),
-    link: formatLink(file),
-  });
-}
-
-let output = '// 自动生成的 sidebar 配置，请复制到 astro.config.ts 中使用\n\n';
-output += 'export const sidebar = [\n';
-
-for (const [group, items] of Object.entries(groups)) {
-  output += `  {\n    label: '${group}',\n    items: [\n`;
-  for (const item of items) {
-    output += `      { label: '${item.label}', link: '${item.link}' },\n`;
   }
-  output += '    ]\n  },\n';
+
+  return items;
 }
 
-output += '];\n';
+// 生成完整 sidebar 树
+function generateSidebar() {
+  const sidebar = [];
 
-fs.writeFileSync(OUTPUT_FILE, output);
-console.log(`✅ Sidebar 配置已写入：${OUTPUT_FILE}`);
+  const topLevelDirs = fs.readdirSync(docsRoot, { withFileTypes: true });
+
+  for (const dirent of topLevelDirs) {
+    if (dirent.isDirectory()) {
+      const sectionPath = path.join(docsRoot, dirent.name);
+      const sectionItems = buildSidebar(sectionPath, `/${slugify(dirent.name)}`);
+      if (sectionItems.length > 0) {
+        sidebar.push({
+          label: dirent.name,
+          items: sectionItems,
+        });
+      }
+    }
+  }
+
+  return sidebar;
+}
+
+// 写入 sidebar.generated.ts
+function writeSidebarFile(sidebar) {
+  const content =
+    `// THIS FILE IS AUTO-GENERATED. DO NOT EDIT MANUALLY.\n\n` +
+    `export const sidebar = ${JSON.stringify(sidebar, null, 2)};\n`;
+
+  fs.writeFileSync(outputFile, content, 'utf-8');
+  console.log(`✅ Sidebar written to ${outputFile}`);
+}
+
+// 主流程
+const sidebar = generateSidebar();
+writeSidebarFile(sidebar);

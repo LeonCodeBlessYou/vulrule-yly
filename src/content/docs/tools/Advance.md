@@ -1,5 +1,5 @@
 ---
-title: Advance
+title: Advance Generated Rules
 
 ---
 

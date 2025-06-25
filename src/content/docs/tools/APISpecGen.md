@@ -1,5 +1,5 @@
 ---
-title: APISpecGen
+title: APISpecGen Generated Rules
 
 ---
 

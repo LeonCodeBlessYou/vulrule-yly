@@ -1,28 +1,32 @@
 ---
 import { getCollection } from 'astro:content';
+import RecursiveList from '../components/RecursiveList.jsx';
 
 const docs = await getCollection('docs');
 
-// 将文档按照目录名分组
-const groups = new Map();
+function buildTree(docs) {
+  const root = {};
 
-for (const doc of docs) {
-  const segments = doc.id.split('/');
-  const groupName = segments.length > 1 ? segments[0] : 'root';
-  if (!groups.has(groupName)) {
-    groups.set(groupName, []);
+  for (const doc of docs) {
+    const parts = doc.id.split('/');
+    let current = root;
+
+    for (let i = 0; i < parts.length - 1; i++) {
+      const part = parts[i];
+      if (!current[part]) current[part] = {};
+      current = current[part];
+    }
+
+    if (!current.__docs) current.__docs = [];
+    current.__docs.push({ ...doc, slug: doc.id });
   }
-  groups.get(groupName).push(doc);
+
+  return root;
 }
+
+const docTree = buildTree(docs);
 ---
 
-{Array.from(groups.entries()).map(([group, entries]) => (
-  <section>
-    <h2>{group}/</h2>
-    <ul>
-      {entries.map((doc) => (
-        <li><a href={`/${doc.id}`}>{doc.data.title ?? doc.id}</a></li>
-      ))}
-    </ul>
-  </section>
-))}
+<ul>
+  <RecursiveList node={docTree} />
+</ul>
