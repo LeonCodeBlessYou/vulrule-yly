@@ -2,7 +2,7 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 import react from '@astrojs/react';
-import { sidebar } from './sidebar.generated'
+import { sidebar } from './src/sidebar.generated'
 
 
 // https://astro.build/config

@@ -1,5 +1,26 @@
-# Starlight Starter Kit: Basics
+# How to Transfer Data From Docusaurus to HERE
+1. Modify the `$VULRULE/data/data.json`.
+2. Use python script to generate docs from the data.
+    ```
+    python3 -m scripts.gen_docs --language en
+    ```
+    It will make a new dir `$VULRULE/docs`.
 
+3. Select the necessary renewed markdown files from `$VULRULE/docs` and MANUALLY copy them to `$VULRULE/src/content/docs`.
+4. Use JS script to modify the content of renewed markdown files.
+    ```
+    node scripts/fix-md-title-and-link.js
+    ```
+5. Use CJS script to modify the sidebar.
+    ```
+    node scripts/generate-sidebar.cjs
+    ```
+6. Run the local web test
+    ```
+    npm run dev
+    ```
+
+# Starlight Starter Kit: Basics
 [![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
 
 ```
