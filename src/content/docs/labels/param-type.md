@@ -9,5 +9,5 @@ There are 1 rules of type param-type. The following is a list of rules of type p
 
 ## libpcap
 
-- [pcap_dump](projects/libpcap/pcap_dump.md)
+- [pcap_dump](/projects/libpcap/pcap_dump)
 

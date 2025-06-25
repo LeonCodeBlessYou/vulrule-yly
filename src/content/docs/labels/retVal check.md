@@ -9,5 +9,5 @@ There are 1 rules of type retVal check. The following is a list of rules of type
 
 ## glib
 
-- [dbus_message_get_sender](projects/glib/dbus_message_get_sender.md)
+- [dbus_message_get_sender](/projects/glib/dbus_message_get_sender)
 

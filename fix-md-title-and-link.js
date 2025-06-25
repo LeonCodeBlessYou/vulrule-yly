@@ -1,0 +1,73 @@
+// fix_md_links_to_projects.js（ESM）
+// ✅ 替换 Markdown 中所有以 projects 开头的相对路径为 /projects/... 绝对路径
+// ✅ 自动补全 frontmatter 中缺失的 title 字段
+
+import fs from 'fs';
+import path from 'path';
+import { fileURLToPath } from 'url';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
+const docsDir = path.join(__dirname, 'src/content/docs');
+
+// 匹配相对链接：projects/xx/yy.md 或 ./projects/xx.md 或 ../projects/xx.md
+const projectLinkRegex = /\[([^\]]+)\]\((?:\.{0,2}\/)?projects\/([^\)\s]+?)(?:\.mdx?|\/)?\)/g;
+
+function fixMarkdownFile(filePath) {
+  let content = fs.readFileSync(filePath, 'utf-8');
+  let updated = false;
+
+  // === 1️⃣ Frontmatter title ===
+  const hasFrontmatter = content.startsWith('---');
+  let title = path.basename(filePath, '.md');
+
+  if (hasFrontmatter) {
+    const parts = content.split('---');
+    const front = parts[1];
+    if (!/title\s*:/i.test(front)) {
+      parts[1] = `\ntitle: ${title}\n` + front.trim() + '\n';
+      content = parts.join('---');
+      updated = true;
+    }
+  } else {
+    const lines = content.split('\n');
+    const titleLine = lines.find(line => line.startsWith('# '));
+    if (titleLine) {
+      title = titleLine.replace('# ', '').trim();
+    }
+    const frontmatter = `---\ntitle: ${title}\n---\n\n`;
+    content = frontmatter + content;
+    updated = true;
+  }
+
+  // === 2️⃣ 替换链接为 /projects/xxx（去除扩展名） ===
+  const fixedContent = content.replace(projectLinkRegex, (match, text, linkPath) => {
+    const clean = linkPath.replace(/\.mdx?$/, '');
+    return `[${text}](/projects/${clean})`;
+  });
+
+  if (fixedContent !== content) {
+    content = fixedContent;
+    updated = true;
+  }
+
+  if (updated) {
+    fs.writeFileSync(filePath, content, 'utf-8');
+    console.log(`✅ Fixed: ${filePath}`);
+  }
+}
+
+function walk(dir) {
+  const entries = fs.readdirSync(dir, { withFileTypes: true });
+  for (let entry of entries) {
+    const fullPath = path.join(dir, entry.name);
+    if (entry.isDirectory()) {
+      walk(fullPath);
+    } else if (entry.isFile() && entry.name.endsWith('.md')) {
+      fixMarkdownFile(fullPath);
+    }
+  }
+}
+
+walk(docsDir);

@@ -9,5 +9,5 @@ There are 1 rules of type buffer overflow. The following is a list of rules of t
 
 ## openssl
 
-- [rsa_private_decrypt](projects/openssl/rsa_private_decrypt.md)
+- [rsa_private_decrypt](/projects/openssl/rsa_private_decrypt)
 

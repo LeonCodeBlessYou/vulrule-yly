@@ -7,7 +7,8 @@
     "start": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "gen_docs_struct": "node ./generate-docs-structure.cjs"
   },
   "dependencies": {
     "@astrojs/starlight": "^0.34.4",

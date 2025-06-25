@@ -9,5 +9,5 @@ There are 1 rules of type unfreed object. The following is a list of rules of ty
 
 ## openssl
 
-- [ssl_get_peer_certificate](projects/openssl/ssl_get_peer_certificate.md)
+- [ssl_get_peer_certificate](/projects/openssl/ssl_get_peer_certificate)
 

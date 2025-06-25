@@ -1,3 +1,5 @@
+// 自动生成的 sidebar 配置，请复制到 astro.config.ts 中使用
+
 export const sidebar = [
   {
     label: 'Root',
@@ -8525,18 +8527,3 @@ export const sidebar = [
     ]
   },
 ];
-
-// @ts-check
-import { defineConfig } from 'astro/config';
-import starlight from '@astrojs/starlight';
-
-// https://astro.build/config
-export default defineConfig({
-	integrations: [
-		starlight({
-			title: 'My Docs',
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
-			sidebar: sidebar,
-		}),
-	],
-});

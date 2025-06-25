@@ -9,12 +9,12 @@ There are 3 rules of type param-value. The following is a list of rules of type 
 
 ## libpcap
 
-- [pcap_set_timeout](projects/libpcap/pcap_set_timeout.md)
+- [pcap_set_timeout](/projects/libpcap/pcap_set_timeout)
 
-- [pcap_open_live](projects/libpcap/pcap_open_live.md)
+- [pcap_open_live](/projects/libpcap/pcap_open_live)
 
 
 ## openssl
 
-- [rsa_private_decrypt](projects/openssl/rsa_private_decrypt.md)
+- [rsa_private_decrypt](/projects/openssl/rsa_private_decrypt)
 

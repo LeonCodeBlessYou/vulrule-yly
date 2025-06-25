@@ -1,0 +1,28 @@
+---
+import { getCollection } from 'astro:content';
+
+const docs = await getCollection('docs');
+
+// 将文档按照目录名分组
+const groups = new Map();
+
+for (const doc of docs) {
+  const segments = doc.id.split('/');
+  const groupName = segments.length > 1 ? segments[0] : 'root';
+  if (!groups.has(groupName)) {
+    groups.set(groupName, []);
+  }
+  groups.get(groupName).push(doc);
+}
+---
+
+{Array.from(groups.entries()).map(([group, entries]) => (
+  <section>
+    <h2>{group}/</h2>
+    <ul>
+      {entries.map((doc) => (
+        <li><a href={`/${doc.id}`}>{doc.data.title ?? doc.id}</a></li>
+      ))}
+    </ul>
+  </section>
+))}
